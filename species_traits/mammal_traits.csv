@@ -1,0 +1,755 @@
+﻿scientific_name,body_mass,body_length,tail_length,Hind_foot_length_mm,Ear_length_mm,Maturity_d.x,Gestation_length_d,Litter_size_n,Litters_per_year_n,Generation_length_d.x,Diet,Activity_cycle,Habitat_.breadth,Distribution.type
+Hylomys suillus,57.8,135,19,24,13.5,332,33,2.4,2,946,食无脊椎动物 invertivores,昼行性 diurnal,3,Wa
+Neohylomys hainanensis,61,139.5,39.5,26.5,19.5,319,37,3.3,1.8,887,食无脊椎动物 invertivores,夜行性 nocturnal,2,J
+Neotetracus sinensis,49.99,108,67,28.5,16,319,36,4.3,2,846,食无脊椎动物 invertivores,夜行性 nocturnal,1,Sd
+Erinaceus amurensis,800,222.5,29.5,44,21,259,36,3~8,1.6,"1,367","食无脊椎动物 invertivores, 食肉 carnivores",夜行性 nocturnal,4,O
+Hemiechinus auritus,390,200,23,35.5,35.5,213,38,4,1,940,杂食 omnivores,夜行性 nocturnal,3,D
+Mesechinus dauuricus,500,212.5,14.5,,27,283,38,3~7,1.6,"1,096",杂食 omnivores,夜行性 nocturnal,2,Dn
+Mesechinus hughi,431,190,18,38.5,24.5,295,39,3.4,1.5,998,杂食 omnivores,夜行性 nocturnal,2,O(Sn)
+Mesechinus miodon,490,170,35.5,37.5,29.5,,,,,,杂食 omnivores,,4,
+Mesechinus wangi,393.5,208.5,16,46.5,30,,,,,,"食虫 insectivores, 食果实 frugivores, 食种子 granivores",,2,
+Uropsilus aequodonenia,11,75.5,71,15.5,,,,,,,食虫 insectivores,,2,
+Uropsilus andersoni,16,74,65.5,15.75,,338,40,3.4,1.1,766,食虫 insectivores,全天活动 cathemeral,1,Hc
+Uropsilus atronates,7.4,66,63.5,12.75,,,,,,,食虫 insectivores,,2,
+Uropsilus dabieshanensis,7.55,127.5,53.25,12.85,8.5,,,,,,,,2,
+Uropsilus gracilis,8.75,69.5,64,14,9.5,334,40,3.4,1.1,703,食无脊椎动物 invertivores,全天活动 cathemeral,3,Sh
+Uropsilus investigator,14.76,75,64.5,14.5,,337,41,3.4,1.1,770,食无脊椎动物 invertivores,全天活动 cathemeral,3,
+Uropsilus nivatus,8.7,66,63.5,13.5,7.25,,,,,,食虫 insectivores,,3,
+Uropsilus soricipes,16,73,59.5,15.5,,339,40,3.4,1.1,769,食虫 insectivores,全天活动 cathemeral,1,Hc
+Alpiscaptulus medogensis,31.15,98,41,18,,,,,,,食虫 insectivores,全天活动 cathemeral,5,
+Scaptonyx fusicaudus,12,81,35.5,17,0,348,38,3.5,1.1,807,食无脊椎动物 invertivores,全天活动 cathemeral,1,Hc
+Scapanulus oweni,22.41,122,41,16.5,,345,41,3.3,1.3,917,食虫 insectivores,全天活动 cathemeral,1,Hc
+Euroscaptor grandis,46.84,150,10,18,0,,37,3.7,1.1,710,食虫 insectivores,全天活动 cathemeral,2,
+Euroscaptor kuznetsovi,59.5,126.5,15.5,15.5,,,,3,,,,,1,
+Euroscaptor orlovi,37.05,117.5,16,15.5,,,,,,,,,1,
+Euroscaptor longirostris,64.5,117.5,16,18.5,0,322,37,2~5,1,725,食虫 insectivores,全天活动 cathemeral,1,
+Euroscaptor micrura,58,131.5,7,15.5,0,328,37,3.9,1.1,706,食虫 insectivores,全天活动 cathemeral,1,
+Euroscaptor parvidens,54.5,142.5,8,14.75,,326,37,3.9,1,704,食虫 insectivores,全天活动 cathemeral,1,
+Mogera kanoana,41.25,123.5,11,14.25,,,,,,,食虫 insectivores,,2,
+Mogera insularis,57.25,127,11.5,16,,,,,,759.1857214,食虫 insectivores,Nocturnal,2,
+Mogera latouchei,71.04,112,8.5,11.5,,324,39,3~5,1,740,食虫 insectivores,全天活动 cathemeral,1,Sc
+Mogera robusta,72,195,21,23,0,321,40,2~10,1,758,食虫 insectivores,全天活动 cathemeral,1,Kb
+Mogera uchidai,75.85,106,12.5,15.5,0,337,41,3.4,1.4,916,食虫 insectivores,全天活动 cathemeral,1,
+Mogera wogura,120.4,151.5,20.25,19.25,,,40,3~6,1,774,食虫 insectivores,全天活动 cathemeral,4,Kf
+Parascaptor leucura,41.55,120.5,12,14.5,,333,38,2~4,1.2,723,食虫 insectivores,全天活动 cathemeral,1,Wb
+Scaptochirus moschatus,90.51,113,18.5,17,,322,38,3~8,1,739,食虫 insectivores,全天活动 cathemeral,2,Ba
+Sorex asper,8.5,66,39.5,12,,317,21,5.9,2,413,"食虫 insectivores, 食腐 scavengers",全天活动 cathemeral,2,
+Sorex bedfordiae,10.4,61,57,13,,271,21,5,2.1,398,"食虫 insectivores, 食腐 scavengers",全天活动 cathemeral,2,Hc
+Sorex caecutiens,5.85,58.5,34,12,9.5,241,20,2~11,3,400,"食虫 insectivores, 食腐 scavengers",全天活动 cathemeral,3,Ue
+Sorex cansulus,6.3,63,40.5,12,,239,20,2~9,2.5,396,"食虫 insectivores, 食腐 scavengers",全天活动 cathemeral,3,
+Sorex cylindricauda,5.5,72,58.5,15.5,,294,20,5,2,402,"食虫 insectivores, 食腐 scavengers",全天活动 cathemeral,1,Hc
+Sorex daphaenodon,8.1,62,32,11.5,,322,20,4~6,2,408,"食虫 insectivores, 食腐 scavengers",全天活动 cathemeral,2,
+Sorex excelsus,7.5,66.5,47.5,14.5,,330,21,6.6,1.9,426,"食虫 insectivores, 食腐 scavengers",全天活动 cathemeral,3,
+Sorex gracillimus,3.9,55.5,42.5,10.5,,328,24,3~8,1.5,439,"食虫 insectivores, 食腐 scavengers",夜行性 nocturnal,2,
+Sorex isodon,12.23,74,44,14,,275,13~19,3~6,2.2,396,"食虫 insectivores, 食腐 scavengers",全天活动 cathemeral,2,
+Sorex kozlovi,7.8,70.92,,,,320,21,6,2,414,"食虫 insectivores, 食腐 scavengers",全天活动 cathemeral,1,
+Sorex minutissimus,2.15,47,27.5,9,,293,21,9,2.2,427,"食虫 insectivores, 食腐 scavengers",全天活动 cathemeral,2,
+Sorex minutus,4.2,49,35.5,10.5,,353,24,5.9,1.5,417,"食虫 insectivores, 食腐 scavengers",全天活动 cathemeral,6,Ub
+Sorex mirabilis,12.5,85.5,68.5,17,,340,22,4.8,1.9,418,"食虫 insectivores, 食腐 scavengers",全天活动 cathemeral,1,Ke
+Sorex planiceps,4.2,66,42.5,12,,328,24,5.9,1.5,441,"食虫 insectivores, 食腐 scavengers",全天活动 cathemeral,3,
+Sorex roboratus,8.2,72.5,37,13.75,,330,21,6.6,1.9,420,"食虫 insectivores, 食腐 scavengers",全天活动 cathemeral,1,
+Sorex sinalis,8.2,74.5,58.5,15,,330,21,2~5,1~2,420,"食虫 insectivores, 食腐 scavengers",全天活动 cathemeral,2,
+Sorex thibetanus,4.2,57.5,43,12.5,,328,24,5.9,1.5,452,"食虫 insectivores, 食腐 scavengers",全天活动 cathemeral,3,
+Sorex tundrensis,7.5,72.5,29,,,348,17,6.7,1.9,439,"食虫 insectivores, 食腐 scavengers",全天活动 cathemeral,3,
+Sorex unguiculatus,8,80.5,46,13,,278,28,3~7,1.3,392,"食虫 insectivores, 食腐 scavengers",全天活动 cathemeral,2,Mg
+Blarinella griselda/Parablarinella griselda,12.5,65.5,36.5,11,6,261,24,3.8,2.1,468,"食无脊椎动物 invertivores, 食腐 scavengers",夜行性 nocturnal,1,
+Blarinella quadraticauda,12.5,73,50,14.5,,261,23,4.1,2,456,"食虫 insectivores, 食腐 scavengers",夜行性 nocturnal,2,Hc
+Blarinella wardi,12.5,64.5,37.5,11.5,,257,23,4,2,456,"食虫 insectivores, 食腐 scavengers",夜行性 nocturnal,1,
+Pantherina griselda,12.5,67.5,38,,,257,23,4,2,456,"食虫 insectivores, 食腐 scavengers",夜行性 nocturnal,1,
+Soriculus nigrescens,21.5,82,40,14.5,,262,22,3~8,2.1,453,"食虫 insectivores, 食腐 scavengers",夜行性 nocturnal,4,Ha
+Chaetodipus baileyi/Episoriculus baileyi,28.77,72,68,13.75,8.5,107,27,3.7,2,688,"食虫 insectivores, 食腐 scavengers",夜行性 nocturnal,1,
+Episoriculus caudatus,8.94,66,58.5,14,,261,22,4~6,2.1,417,"食虫 insectivores, 食腐 scavengers",夜行性 nocturnal,4,Hm
+Episoriculus fumidus,6.95,62,44.5,12.75,,278,23,3.4,2.1,419,"食虫 insectivores, 食腐 scavengers",夜行性 nocturnal,2,J
+Episoriculus leucops,9.35,67,70.5,15.5,,248,22,4.6,2.2,410,"食虫 insectivores, 食腐 scavengers",夜行性 nocturnal,1,Hm
+Episoriculus macrurus,8.16,60,88.5,16,,264,21,4.7,2.1,413,"食虫 insectivores, 食腐 scavengers",夜行性 nocturnal,1,
+Episoriculus umbrinus,,60.5,50,12,,,,,,,"食虫 insectivores, 食腐 scavengers",,1,
+Episoriculus sacratus,,66,58.5,14.5,,,,,,,"食虫 insectivores, 食腐 scavengers",,1,
+Chodsigoa caovansunga,6,66,67,15,9,292,22,4.3,2,429,"食虫 insectivores, 食腐 scavengers",夜行性 nocturnal,1,
+Chodsigoa hoffmanni,,66.5,81,15.5,,,,,,,"食虫 insectivores, 食腐 scavengers",,1,
+Chodsigoa furva,6.05,71.67,86,17.33,8,,,,,,"食虫 insectivores, 食腐 scavengers",,1,
+Chodsigoa hypsibia,8.16,86,70,16.5,,281,22,4.4,2,460,"食虫 insectivores, 食腐 scavengers",夜行性 nocturnal,2,Hc
+Chodsigoa lamula,8.16,64.5,54.5,13.5,,285,22,4.4,2,433,"食虫 insectivores, 食腐 scavengers",夜行性 nocturnal,1,
+Chodsigoa parca,8.25,76,91,17.5,9,267,22,4.2,2.1,421,"食虫 insectivores, 食腐 scavengers",夜行性 nocturnal,1,
+Chodsigoa parva,3.5,70.14,,,,287,22,4.7,1.9,427,"食虫 insectivores, 食腐 scavengers",全天活动 cathemeral,1,
+Chodsigoa salenskii,5.49,78,110,22,,290,22,4.4,2,430,"食虫 insectivores, 食腐 scavengers",夜行性 nocturnal,1,
+Chodsigoa smithii,18.76,84,100,17.5,,256,23,4.2,2.1,428,"食虫 insectivores, 食腐 scavengers",夜行性 nocturnal,1,
+Chodsigoa sodalis,4.9,68,68.5,14,,286,23,3.4,2,432,"食虫 insectivores, 食腐 scavengers",夜行性 nocturnal,1,
+Neomys fodiens,17,81.5,62,19,,320,21,6~10,1.8,577,"食无脊椎动物 invertivores, 食肉 carnivores, 食鱼 piscivores",全天活动 cathemeral,6,Ub
+Anourosorex assamensis,20,101.38,,,,,27,2.8,2,554,食虫 insectivores,夜行性 nocturnal,4,
+Anourosorex schmidi,20,101.38,,,,260,27,2.8,2,550,食虫 insectivores,夜行性 nocturnal,1,
+Anourosorex squamipes,20,92,13.5,13.5,0,284,31,3~7,1.9,677,食虫 insectivores,夜行性 nocturnal,1,Sd
+Anourosorex yamashinai,20,74,10,14.5,,267,27,2.8,1.9,578,食虫 insectivores,夜行性 nocturnal,3,J
+Chimarrogale himalayica,39.5,123.5,95.5,23.5,0,131,25,3~8,3,433,"食虫 insectivores, 食鱼 piscivores",夜行性 nocturnal,2,Sv
+Chimarrogale leander,,105,91,23.5,,,,,,,"食虫 insectivores, 食鱼 piscivores",夜行性 nocturnal,1,
+Chimarrogale styani,32.86,102,73,21.5,,242,23,3.9,2.2,458,"食虫 insectivores, 食鱼 piscivores",夜行性 nocturnal,3,Hc
+Nectogale elegans,38.82,102.5,102,26,,257,33,3.1,2.1,657,"食虫 insectivores, 食鱼 piscivores",夜行性 nocturnal,2,Hc
+Suncus etruscus,2.5,48,25.5,7.5,5.25,297,28,4,3.4,591,"食虫 insectivores, 食肉 carnivores, 食腐 scavengers",夜行性 nocturnal,5,Wa
+Suncus murinus,45.87,133,72.5,20.5,,32,30,1~7,9.8,364,"食虫 insectivores, 食肉 carnivores, 食腐 scavengers",夜行性 nocturnal,6,Wd
+Crocidura anhuiensis,12.015,69.49,53.79,14.175,8.49,,,,,,"食虫 insectivores, 食花 nectarivores, 食果实 frugivores, 食种子 granivores",,3,
+Crocidura attenuata,9,77.5,50.5,14.5,10,268,56,1,2.2,867,"食虫 insectivores, 食肉 carnivores, 食腐 scavengers",夜行性 nocturnal,3,Sd
+Crocidura dongyangjiangensis,5.135,54.985,41.8,12.15,41.8,,,,,,"食虫 insectivores, 食肉 carnivores, 食腐 scavengers",夜行性 nocturnal,3,
+Crocidura fuliginosa/C. dracula,14.27,92,75.5,17,10,268,56,1,2.2,867,"食虫 insectivores, 食肉 carnivores, 食腐 scavengers",夜行性 nocturnal,6,
+Crocidura gmelini,5.2,62,33.5,12.5,,193,27,5~10,3,484,"食虫 insectivores, 食肉 carnivores, 食腐 scavengers",夜行性 nocturnal,2,
+Crocidura indochinensis,5.47,66,48.5,12.5,10,,27,3.1,3.1,458,"食虫 insectivores, 食肉 carnivores, 食腐 scavengers",夜行性 nocturnal,1,
+Crocidura lasiura,14.27,86,37.5,19,,268,56,8~11,2.2,867,"食无脊椎动物 invertivores, 食肉 carnivores, 食腐 scavengers",夜行性 nocturnal,1,O
+Crocidura leucodon,8.5,65.5,36,13,,107,30,4.7,3~8,428,"食虫 insectivores, 食肉 carnivores, 食腐 scavengers",夜行性 nocturnal,3,
+Crocidura rapax,10.6,63,42.5,12,,75,29,4,3.5,433,"食虫 insectivores, 食肉 carnivores, 食腐 scavengers",夜行性 nocturnal,1,
+Crocidura shantungensis,7,58,39,11.5,7.5,210,27,5~10,3.5,444,"食虫 insectivores, 食肉 carnivores, 食腐 scavengers",夜行性 nocturnal,3,
+Crocidura sibirica,73,69,34.5,11.5,,101,30,4.7,3.8,432,"食虫 insectivores, 食肉 carnivores, 食腐 scavengers",夜行性 nocturnal,4,
+Crocidura suaveolens,7.95,63.5,32.5,,,69,24~32,4,4.2~5.5,370,"食虫 insectivores, 食肉 carnivores, 食腐 scavengers",夜行性 nocturnal,6,
+Crocidura tadae,6.3,64.35,49.85,11.7,8.4,190,27,3.1,3.1,487,"食虫 insectivores, 食肉 carnivores, 食腐 scavengers",,2,J
+Crocidura tanakae,14.5,78,54.5,13,9,267,56,1,2.2,859,"食虫 insectivores, 食肉 carnivores, 食腐 scavengers",夜行性 nocturnal,3,Sb
+Crocidura vorax,10.6,72,46,12.5,,75,29,4,3.5,437,"食虫 insectivores, 食肉 carnivores, 食腐 scavengers",夜行性 nocturnal,1,
+Crocidura wuchihensis,4.75,60,38.5,11.5,7.5,182,28,3.1,3.1,476,"食虫 insectivores, 食肉 carnivores, 食腐 scavengers",夜行性 nocturnal,1,
+Tupaia belangeri,147.5,177.5,170,40.5,16,122,46,2~4,1~2,"1,333","食虫 insectivores, 食草或者树叶 herbivores",昼行性 diurnal,3,Wb
+Rousettus amplexicaudatus,82.94,110,16,21.5,19,259,101,1,2,"1,315","食果实 frugivores, 食花 nectarivores",夜行性 nocturnal,5,
+Rousettus leschenaultii,96.57,107.5,14,21.5,21,322,118,1,2,"1,680","食果实 frugivores, 食花 nectarivores",夜行性 nocturnal,3,Wb
+Pteropus dasymallus,463.43,206.5,,47.5,24,551,165,1,1.1,"1,825",食果实 frugivores,夜行性 nocturnal,2,J
+Pteropus giganteus,824.85,249,,50.5,39,395,156,1,1,"4,260",食果实 frugivores,夜行性 nocturnal,2,
+Cynopterus brachyotis,113,77,10.5,14,15.5,525,105,1,11,1287.664,食肉 carnivores,夜行性 nocturnal,2,Wb
+Cynopterus sphinx,37.4,85,9.5,17.5,19.5,313,120,1.1,2,"1,285",食果实 frugivores,夜行性 nocturnal,2,Wc
+Sphaerias blanfordi,28.88,85,,11.5,18,430,129,1,1.8,"1,792",食果实 frugivores,夜行性 nocturnal,1,Wa
+Eonycteris spelaea,55.15,105,17,20.5,20.5,357,152,1,2,979,食花 nectarivores,夜行性 nocturnal,3,Wa
+Macroglossus sobrinus,21.8,79.5,3,14,16.5,220,120,1,2,"1,209","食果实 frugivores, 食花 nectarivores",夜行性 nocturnal,2,
+Megaerops ecaudatus,26.29,102,,,,412,129,1,1.8,"1,761","食果实 frugivores, 食花 nectarivores",夜行性 nocturnal,1,
+Megaerops niphanae,26.3,96.64,,,,345,128,1,1.9,"1,630","食果实 frugivores, 食花 nectarivores",夜行性 nocturnal,2,
+Taphozous melanopogon,25.99,76.5,26,11.5,19.5,374,122,1,1,"2,009","食虫 insectivores, 食果实 frugivores",夜行性 nocturnal,4,Wc
+Taphozous theobaldi,36.83,91.5,30,14.5,24.5,342,92,1,1.3,"1,732",食虫 insectivores,夜行性 nocturnal,2,
+Megaderma lyra,38.94,82.5,0,17,38,621,151,1~2,1,"1,986","食虫 insectivores, 食肉 carnivores, 食鱼 piscivores",夜行性 nocturnal,6,Wc
+Megaderma spasma,38.6,73.99,,,,515,150,1,1,"2,030","食虫 insectivores, 食肉 carnivores, 食鱼 piscivores",夜行性 nocturnal,5,
+Rhinolophus affinis,16.25,60.5,27.5,12,18,367,108,1,2,"1,440",食虫 insectivores,夜行性 nocturnal,3,Wd
+Rhinolophus ferrumequinum,22.88,67.5,34.5,12,23.5,828,86,1,1,"3,285",食虫 insectivores,夜行性 nocturnal,5,O3(Ug)
+Rhinolophus formosae,34.07,90,34.5,16.5,30.5,629,109,1,1,"2,383",食虫 insectivores,夜行性 nocturnal,3,J
+Rhinolophus lepidus,5.46,58.13,21.5,9,18,585,103,1,1,"2,144",食虫 insectivores,夜行性 nocturnal,3,Wc
+Rhinolophus luctus,34.07,77.22,48.5,17,36,623,106,1,1,"2,327",食虫 insectivores,夜行性 nocturnal,4,Wb
+Rhinolophus macrotis,6.18,55,22,9.5,22.5,583,99,1,1.1,"2,101",食虫 insectivores,夜行性 nocturnal,2,Wd
+Rhinolophus malayanus,6.73,85,43.15,8.25,14.95,582,104,1,1,"2,106",食虫 insectivores,夜行性 nocturnal,3,
+Rhinolophus marshalli,5.02,49,,,,580,105,1,1,"2,174",食虫 insectivores,夜行性 nocturnal,5,Wa
+Rhinolophus monoceros,,45,21,8,16.5,,,,,,食虫 insectivores,夜行性 nocturnal,2,J
+Rhinolophus osgoodi,12.39,45,19,8.5,16,639,102,1,1,"2,338",食虫 insectivores,夜行性 nocturnal,1,
+Rhinolophus pearsonii,11.55,47,22.5,12.5,26,607,104,1.1,1,"2,243",食虫 insectivores,夜行性 nocturnal,3,Wd
+Rhinolophus pusillus,7.62,64.5,19.5,7,16.5,555,103,1,1.1,"1,989",食虫 insectivores,夜行性 nocturnal,2,Sc
+Rhinolophus rex,32.62,40,35,9,32,,103,1,1,"2,262",食虫 insectivores,夜行性 nocturnal,2,Ya
+Rhinolophus schnitzleri,10.91,64.7,27.6,9.95,31.3,631,103,1,1,"2,314",食虫 insectivores,夜行性 nocturnal,1,
+Rhinolophus siamensis,7.36,60.05,14,8.5,20.5,596,99,1,1.1,"2,150",食虫 insectivores,夜行性 nocturnal,2,
+Rhinolophus sinicus,10.26,48,25.5,8.5,17.5,451,124,1,1,"1,314",食虫 insectivores,夜行性 nocturnal,2,
+Rhinolophus stheno,7.92,62.58,,,,605,106,1,1,"2,172",食虫 insectivores,夜行性 nocturnal,2,Wa
+Rhinolophus subbadius,5.86,36,17.5,7.5,16,595,105,1.1,1,"2,269",食虫 insectivores,夜行性 nocturnal,2,
+Rhinolophus thomasi,8.26,49,23,9,18,568,104,1,1,"2,030",食虫 insectivores,夜行性 nocturnal,2,Wb
+Rhinolophus xinanzhongguoensis,24,60.5,32.5,,21.5,,,,,,食虫 insectivores,夜行性 nocturnal,1,
+Rhinolophus yunanensis,19.33,64,22,13,27.5,625,102,1,1,"2,337",食虫 insectivores,夜行性 nocturnal,3,Hc
+Hipposideros armiger,49.99,95,59,15,30.5,601,137,1~2,1,"2,273",食虫 insectivores,夜行性 nocturnal,3,Wd
+Hipposideros cineraceus,4.1,39.7,23.85,,15.15,576,90,1,1.1,"2,091",食虫 insectivores,夜行性 nocturnal,2,
+Hipposideros fulvus,8.5,45,29.5,8,22.5,551,102,1,1,"1,834",食虫 insectivores,夜行性 nocturnal,2,
+Hipposideros larvatus,19.95,76,40.5,12.5,24.5,608,104,1,1,"2,247",食虫 insectivores,夜行性 nocturnal,3,Wb
+Hipposideros lylei,62.19,81.45,50.8,18.5,30,603,141,1,1,"2,254",食虫 insectivores,夜行性 nocturnal,3,
+Hipposideros pomona,9.25,44,31.5,7.5,21.5,588,42,1,1.2,"1,979",食虫 insectivores,夜行性 nocturnal,3,
+Hipposideros pratti,84.38,100.5,56,18.5,35.5,628,145,1,1,"2,358",食虫 insectivores,夜行性 nocturnal,1,Wd
+Aselliscus stoliczkanus,6.09,45,35,9.5,12,619,98,1,1,"2,296",食虫 insectivores,夜行性 nocturnal,2,Sc
+Coelops frithii,7.52,44,0,7,13,616,107,1,1,"2,227",食虫 insectivores,夜行性 nocturnal,2,Wb
+Tadarida insignis,35,89,54,12.5,32.5,365,46,1,1.7,"1,736",食虫 insectivores,夜行性 nocturnal,6,
+Tadarida latouchei,35,69.5,43.5,12.5,23.5,365,46,1,1.7,"1,723",食虫 insectivores,夜行性 nocturnal,2,
+Chaerephon plicata/C. plicatus,21.83,70,35,10.5,18.5,,89,1,2,"1,267",食虫 insectivores,夜行性 nocturnal,4,O3(Ub)
+Eudiscopus denticulus,5.5,40.65,40,6.75,10.5,388,83,1.6,1,"1,948",食虫 insectivores,夜行性 nocturnal,1,
+Myotis altarium,11,57.5,49,11.5,23,431,75,1.1,1,"2,049",食虫 insectivores,夜行性 nocturnal,1,Si
+Myotis annectans,9.75,50,43.5,10,15,410,73,1,1,"2,142",食虫 insectivores,夜行性 nocturnal,1,Wa
+Myotis badius,5,42,37,6.7,15,,,,,,食虫 insectivores,夜行性 nocturnal,1,
+Myotis blythii,24.26,77,67,14,20.5,421,69,1,1,"2,555",食虫 insectivores,夜行性 nocturnal,4,O3(Ug)
+Myotis bombinus,7.5,46.5,41.5,10,16.5,392,69,1,1,"2,591",食虫 insectivores,夜行性 nocturnal,2,M
+Myotis brandtii,7,45,38,8,14.5,653,159,1.1,1,"3,321",食虫 insectivores,夜行性 nocturnal,7,
+Myotis chinensis,28.55,94,55.5,17,21.5,476,69,1,1,"2,346",食虫 insectivores,夜行性 nocturnal,3,
+Myotis dasycneme,15,62,48.5,11.5,17.5,374,68,1,1,"1,825",食虫 insectivores,夜行性 nocturnal,5,
+Myotis davidii,5.3,42.5,36.5,8,13.5,411,63,1,1,"2,633",食虫 insectivores,夜行性 nocturnal,2,
+Myotis fimbriatus,23.41,47,42.5,9,15,456,65,1,1,"2,486",食虫 insectivores,夜行性 nocturnal,1,Sc
+Myotis formosus,7.07,57.5,47.5,11,16.5,429,73,1,1,"2,112",食虫 insectivores,夜行性 nocturnal,5,
+Myotis frater,7.54,50,42.5,9.5,12.5,730,121,1,1,"2,878",食虫 insectivores,夜行性 nocturnal,3,O3(Ub)
+Myotis hasseltii,8.7,57.85,,,,471,82,1,1,"2,215","食虫 insectivores, 食鱼 piscivores",夜行性 nocturnal,3,Wa
+Myotis horsfieldii,6.13,54,38,9,14,354,68,1.2,1,"1,772",食虫 insectivores,夜行性 nocturnal,3,Wa
+Myotis indochinensis,,59,45,9,,,,,,,食虫 insectivores,夜行性 nocturnal,3,
+Myotis ikonnikovi,5.99,44,34,8,12,406,63,1,1,"2,503",食虫 insectivores,夜行性 nocturnal,4,
+Myotis laniger,8.5,41,39,9.5,14,730,54,1.1,1,"2,960",食虫 insectivores,夜行性 nocturnal,2,
+Myotis longipes,23.41,44.5,39.5,9.5,12.5,456,65,1,1,"2,470",食虫 insectivores,夜行性 nocturnal,2,Si
+Myotis macrodactylus,23.41,72,40.5,,,456,65,1,1,"2,459",食虫 insectivores,夜行性 nocturnal,4,
+Myotis montivagus,5.3,59,45,9.5,15,411,68,1,1,"2,631",食虫 insectivores,夜行性 nocturnal,2,
+Myotis muricola,5.3,44,32,5.5,9.5,411,65,1,1,"2,667",食虫 insectivores,夜行性 nocturnal,3,
+Myotis nipalensis,5.3,42.5,36,7.5,13,411,63,1,1,"2,830",食虫 insectivores,夜行性 nocturnal,6,
+Myotis pequinius,17.41,62,42,12,18,440,75,1.1,1,"2,220",食虫 insectivores,夜行性 nocturnal,2,E
+Myotis petax,,49.82,13.32,10.7,18.72,,,,,,食虫 insectivores,夜行性 nocturnal,4,
+Myotis pilosus,26.19,65,49.5,16,16.5,375,76,1.1,1,"1,825","食虫 insectivores, 食鱼 piscivores",夜行性 nocturnal,2,
+Myotis rufoniger,9,50.82,50.05,,16.91,,,,,,食虫 insectivores,,2,Si
+Myotis siligorensis,2.93,40.5,31.5,7,10.5,439,78,1,1.1,"2,188",食虫 insectivores,夜行性 nocturnal,2,Sc
+Myotis taiwanensis,,49.5,39,,,,,,,,食虫 insectivores,夜行性 nocturnal,1,J
+Submyotodon latirostris,5.3,50,36.5,,,411,64,1,1,"2,735",食虫 insectivores,夜行性 nocturnal,1,J
+Pipistrellus abramus,5.4,49,37,8,10.5,242,71,2.2,1.2,"1,368",食虫 insectivores,夜行性 nocturnal,6,Ea
+Pipistrellus ceylonicus,9.5,54.5,37.5,8.5,11.5,281,52,2,1,"1,323",食虫 insectivores,夜行性 nocturnal,3,
+Pipistrellus coromandra,4.59,41.5,30.5,5.5,10.5,216,80,1.4,1.5,"1,362",食虫 insectivores,夜行性 nocturnal,3,Wc
+Pipistrellus javanicus,4.92,47.5,33,5.5,10,206,71,2.3,1.7,"1,309",食虫 insectivores,夜行性 nocturnal,3,Sc
+Pipistrellus kuhlii,5.55,42,37.5,7,11.5,330,78,1.4,1,"1,610",食虫 insectivores,夜行性 nocturnal,4,O
+Pipistrellus paterculus,4.92,45,34.5,6.5,11.5,213,71,2.2,1.6,"1,328",食虫 insectivores,夜行性 nocturnal,2,Wc
+Pipistrellus pipistrellus,4.5,44,32,6.5,11,248,42,1.3,1,"1,963",食虫 insectivores,夜行性 nocturnal,5,O3(Uh)
+Pipistrellus tenuis,3.7,39,27.5,5,8,54,61,1.9,3,"1,245",食虫 insectivores,夜行性 nocturnal,4,Wa
+Arielulus circumdatus,10.4,95,40,10,15,350,77,1.7,1,"1,655",食虫 insectivores,夜行性 nocturnal,1,
+Arielulus torquatus/Thainycteris torquatus,6.3,59.21,41.5,,,338,74,1.7,1,"1,703",食虫 insectivores,夜行性 nocturnal,2,J
+Hypsugo affinis,10.23,47,35.5,7.5,13.5,445,101,1.4,1,"2,075",食虫 insectivores,夜行性 nocturnal,2,Sb
+Hypsugo alaschanicus,8.2,48,39.5,8,13,264,84,1.7,1.1,"1,491",食虫 insectivores,夜行性 nocturnal,3,
+Hypsugo cadornae,6.69,43.5,40.65,5.95,12.6,253,80,1.8,1.1,"1,484",食虫 insectivores,夜行性 nocturnal,3,
+Hypsugo mordax,10.46,51.5,39.5,7.5,15,430,97,1.4,1,"1,972",食虫 insectivores,夜行性 nocturnal,1,
+Hypsugo pulveratus,5.53,45.5,37.5,7.5,13,272,74,1.8,1.2,"1,468",食虫 insectivores,夜行性 nocturnal,5,Sd
+Hypsugo savii,6.3,53.5,32.5,7,12,79,75,2,1,"1,454",食虫 insectivores,夜行性 nocturnal,9,Ug
+Thainycteris aureocollaris,14.5,78.22,,10.325,14.96,,81,1.4,1,"2,056",食虫 insectivores,夜行性 nocturnal,1,
+Ia io,49.3,96.5,72,15.5,25.5,387,93,1.5,1,"1,955",食虫 insectivores,夜行性 nocturnal,2,Si
+Vespertilio murinus,15.71,60.5,44,9,15,371,52,1.5,1,"1,600",食虫 insectivores,夜行性 nocturnal,8,Uf
+Vespertilio sinensis,24.3,69,44,12.5,17.5,294,52,2,1.3,"1,342",食虫 insectivores,夜行性 nocturnal,8,E
+Eptesicus gobiensis,13,61,42.5,9.5,12.5,419,72,1.3,1,"2,057",食虫 insectivores,夜行性 nocturnal,3,
+Eptesicus nilssonii,13,59,42.5,11,15.5,396,72,1.5,1,"2,301",食虫 insectivores,夜行性 nocturnal,5,Ub
+Eptesicus pachyomus,18.2,74,,,,,67,1.5,1,"2,195",食虫 insectivores,夜行性 nocturnal,4,
+Eptesicus pachyotis,8.1,55.5,40.5,8.5,13.5,310,78,1.8,1.1,"1,554",食虫 insectivores,夜行性 nocturnal,1,
+Nyctalus aviator,38.93,93,53.5,14.5,19.5,409,85,1.9,1,"1,947",食虫 insectivores,夜行性 nocturnal,1,M
+Nyctalus noctula,19.38,71,51,13,18.5,416,66,1.2,1,"1,529",食虫 insectivores,夜行性 nocturnal,4,Ud
+Nyctalus plancyi,19.38,70,44,10.5,16.5,435,66,1.2,1,"2,115",食虫 insectivores,夜行性 nocturnal,4,
+Tylonycteris fulvida,,26,11.21,4.78,6.8,,,,,,食虫 insectivores,夜行性 nocturnal,2,Wb
+Tylonycteris pygmaea,3,31.5,25.58,4.345,5.68,274,91,1.9,1,"1,392",食虫 insectivores,夜行性 nocturnal,2,
+Tylonycteris tonkinensis,7.98,42,28.5,5.5,9.5,141,91,2,1,"1,309",食虫 insectivores,夜行性 nocturnal,2,Wb
+Barbastella beijingensis,11.9,51.65,39.85,7.3,15.05,,,,,,食虫 insectivores,夜行性 nocturnal,2,
+Barbastella darjelingensis,10,49,43.5,7.5,16,548,86,2,1,"2,126",食虫 insectivores,夜行性 nocturnal,6,We
+Scotomanes ornatus,22.24,74.5,59,13.5,21,371,73,1.6,1,"1,813",食虫 insectivores,夜行性 nocturnal,2,Sc
+Scotophilus heathii,36.13,80,57,12,17,193,114,1.9,1,"1,692",食虫 insectivores,夜行性 nocturnal,4,Wb
+Scotophilus kuhlii,20.31,69,52.5,10.5,13,243,110,1.5,1,"1,721",食虫 insectivores,夜行性 nocturnal,4,Wb
+Plecotus auritus,9.2,42.5,49,7.5,40,338,65,1.3,1,"3,694",食虫 insectivores,夜行性 nocturnal,4,Ub
+Plecotus austriacus,8.19,49.5,46,8.5,39.5,358,65,1.3,1,"2,333",食虫 insectivores,夜行性 nocturnal,5,Hb
+Plecotus ognevi,8.4,51,,,,338,65,1.3,1,"3,694",食虫 insectivores,夜行性 nocturnal,5,
+Plecotus taivanus,8.54,49,48,10,37.5,414,74,1.3,1,"2,195",食虫 insectivores,夜行性 nocturnal,1,J
+Miniopterus schreibersii/M. fuliginosus,11.19,72.5,56,10.5,13,666,113,1,1,"1,996",食虫 insectivores,夜行性 nocturnal,5,O3
+Miniopterus magnater,13,66.5,58,11,14,654,100,1,1,"2,075",食虫 insectivores,夜行性 nocturnal,3,
+Miniopterus pusillus,7.6,46.5,44,7.5,10.5,583,180,1,1,"1,843",食虫 insectivores,夜行性 nocturnal,3,We
+Harpiola isodon,10.17892383,46,31.5,,,796,186,1.3,1,"3,404",食虫 insectivores,夜行性 nocturnal,4,
+Murina aurata,4.27,34,30,7.5,11,420,90,1.4,1,"1,966",食虫 insectivores,夜行性 nocturnal,1,Eg
+Murina bicolor,,48.5,42.5,,,,,,,,食虫 insectivores,夜行性 nocturnal,2,
+Murina chrysochaetes,3.8,34.045,30.52,7.055,11.88,,,,,,食虫 insectivores,夜行性 nocturnal,1,
+Murina cyclotis,9.35,44,37,8.5,13.5,374,90,2,1,"1,860",食虫 insectivores,夜行性 nocturnal,3,We
+Murina eleryi,3.675,35.93,,,11.45,,,,,,食虫 insectivores,夜行性 nocturnal,1,
+Murina fanjingshanensis,8.4,46.635,40.365,9.725,13.68,,,,,,食虫 insectivores,夜行性 nocturnal,3,
+Murina feae,4.4,,,,13.515,,,,,,食虫 insectivores,夜行性 nocturnal,3,
+Murina fusca,7.54,58,34,8,18,,88,1.4,1,"1,949",食虫 insectivores,夜行性 nocturnal,1,
+Murina gracilis,,39,31,,,,,,,,食虫 insectivores,夜行性 nocturnal,2,
+Murina harrisoni,4.3,65.84,,,,365,87,1.4,1,"1,833",食虫 insectivores,夜行性 nocturnal,1,
+Murina hilgendorfi,7.54,58,38.5,12.5,17,426,86,1.5,1,"1,968",食虫 insectivores,夜行性 nocturnal,2,
+Murina huttonii,7.56,48.5,35,8,17,376,90,1.6,1,"1,869",食虫 insectivores,夜行性 nocturnal,2,Wc
+Murina jinchui,6.1,42.4,35.7,8.3,15.25,,,,,,食虫 insectivores,夜行性 nocturnal,1,
+Murina leucogaster,7.54,48,40,9.5,14.5,423,91,1.4,1,"1,964",食虫 insectivores,夜行性 nocturnal,1,Eb
+Murina liboensis,5,41.135,34.83,5.785,12.945,,,,,,食虫 insectivores,夜行性 nocturnal,1,
+Murina lorelieae,3.95,,33.375,7.235,14.325,,,,,,食虫 insectivores,夜行性 nocturnal,1,
+Murina puta,6.91,60,34,10.5,18,402,90,1.6,1,"1,922",食虫 insectivores,夜行性 nocturnal,2,J
+Murina recondita,,39,33,,,,,,,,食虫 insectivores,夜行性 nocturnal,2,J
+Murina rongjiangensis,4.25,47.2,35.635,8.67,10.45,,,,,,食虫 insectivores,夜行性 nocturnal,2,
+Murina shuipuensis,4.7,41.65,35.15,8.45,12.05,,,,,,食虫 insectivores,夜行性 nocturnal,1,
+Murina ussuriensis,4.48,68.98,25,10,13,400,95,1.5,1,"1,917",食虫 insectivores,夜行性 nocturnal,2,M
+Harpiocephalus harpia,15.26,67.5,45,12.5,17.5,364,91,1.4,1,"1,845",食虫 insectivores,夜行性 nocturnal,1,Wc
+Kerivoula furva,4.55,59.06,40.4,7.75,11.95,494,86,1,1,"2,219",食虫 insectivores,夜行性 nocturnal,1,
+Kerivoula picta,4.5,44,45.5,6,14.5,470,95,1,1,"2,110",食虫 insectivores,夜行性 nocturnal,3,Wc
+Kerivoula titania,4.65,39.7,40.12,8.11,11.425,"6,328",447,,1.1,54,食虫 insectivores,夜行性 nocturnal,1,
+Nycticebus bengalensis,1500,320,23.5,,22.5,619,190,1~2,1,"2,555",杂食 omnivores,夜行性 nocturnal,1,Wa
+Nycticebus pygmaeus,525,235,10,,,578,188,2,1,"2,920",杂食 omnivores,夜行性 nocturnal,2,Wa
+Macaca arctoides,6000,567.5,47.5,161,,"1,570",177,1,0.6,"3,650","食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,1,Wb
+Macaca assamensis,8500,590,210,165,,"1,464",174,1,0.7,"4,173","食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,1,We
+Macaca cyclopis,4500,405,358,,,"1,650",163,1,0.9,"4,167","食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,2,J
+Macaca leonina,12500,530,150,,,"1,161",172,1,0.9,"4,015","食虫 insectivores, 食果实 frugivores, 食草或者树叶 herbivores",昼行性 diurnal,1,Wa
+Macaca leucogenys,,665,280,,,,,,,,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,1,He
+Macaca mulatta,7500,515,235,153.5,,"1,101",165,1,1,"5,059","食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,4,We
+Macaca munzala,"15,000.00",695.92,264,,,"1,458",179,1,0.7,"4,028","食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,2,Ha
+Macaca thibetana,17500,600,80,,,"1,776",175,1,0.6,"3,285","食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,2,Se
+Semnopithecus schistaceus,15500,705,860,,,"1,561",190~210,1,0.7,"3,963","食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,4,Ha
+Trachypithecus crepusculus,7500,570,740,,,"1,461",158,1,0.8,"4,015","食果实 frugivores, 食草或者树叶 herbivores",昼行性 diurnal,2,Wb
+Trachypithecus francoisi,9250,615,800,,,"1,460",168,1.3,0.6,"4,015","食果实 frugivores, 食草或者树叶 herbivores",昼行性 diurnal,4,Wc
+Trachypithecus leucocephalus,7750,615,800,,,"1,460",168,1.3,0.7,"4,015","食果实 frugivores, 食草或者树叶 herbivores",昼行性 diurnal,2,Wb
+Trachypithecus melamera,7500,630,700,174,33,"1,461",158,1,0.8,"4,015","食果实 frugivores, 食草或者树叶 herbivores",昼行性 diurnal,2,Wb
+Trachypithecus pileatus,10500,607,904,198.5,,"1,465",173,1,0.7,"4,015","食果实 frugivores, 食草或者树叶 herbivores",昼行性 diurnal,1,Hd
+Trachypithecus shortridgei,"11,450.00",695,995,,,"1,470",173,1,0.7,"4,015","食果实 frugivores, 食草或者树叶 herbivores",昼行性 diurnal,1,Wa
+Rhinopithecus bieti,14500,785,615,,,755,189~198,1,1,"4,015",食草或者树叶 herbivores,昼行性 diurnal,1,Hc
+Rhinopithecus brelichi,11500,665,775,,,"1,506",200,1,0.8,"4,132","食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,1,Hc
+Rhinopithecus roxellana,11750,695,775,,,"1,523",193~203,1,0.7,"4,745","食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,1,Hc
+Rhinopithecus strykeri,"11,250.00",692.22,780,,,"1,336",180,1,0.9,"2,190","食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,1,
+Hoolock hoolock,7250,750,0,146.5,,"2,689",210~225,1,0.3,"4,745","食虫 insectivores, 食果实 frugivores, 食草或者树叶 herbivores",昼行性 diurnal,1,Wa
+Hylobates lar,5450,525,0,142.5,35,"3,853",210~225,1,0.5,"5,475","食虫 insectivores, 食果实 frugivores, 食草或者树叶 herbivores",昼行性 diurnal,1,Wa
+Hoolock leuconedys,7500,550,0,,,"2,689",233,1,0.3,"4,745","食虫 insectivores, 食果实 frugivores, 食草或者树叶 herbivores",昼行性 diurnal,1,Wa
+Hoolock tianxing,"6,699.00",591.25,0,,,"2,689",233,1,0.3,"4,745","食虫 insectivores, 食果实 frugivores, 食草或者树叶 herbivores",昼行性 diurnal,1,
+Nomascus concolor,7500,485,0,157.5,,"2,454",207,1,0.7,"5,475","食虫 insectivores, 食果实 frugivores, 食草或者树叶 herbivores",昼行性 diurnal,1,Wb
+Nomascus nasutus,7500,590,0,,,"2,454",207,1,0.7,"5,475","食虫 insectivores, 食果实 frugivores, 食草或者树叶 herbivores",昼行性 diurnal,1,Wb
+Nomascus hainanus,8250,510,0,125,36.5,"1,934",199,1,0.6,"5,475","食虫 insectivores, 食果实 frugivores, 食草或者树叶 herbivores",昼行性 diurnal,1,J
+Nomascus leucogenys,6800,488,0,,33.5,"3,069",210~240,1,0.5,"5,475","食虫 insectivores, 食果实 frugivores, 食草或者树叶 herbivores",昼行性 diurnal,1,Wa
+Manis crassicaudata,7100,600,395,100,,755,68,1,1,"2,052",食虫 insectivores(蚂蚁和白蚁),夜行性 nocturnal,5,Wa
+Manis javanica,4700,671.5,315,75,23,755,112,1,1,"1,825",食虫 insectivores(蚂蚁和白蚁),夜行性 nocturnal,5,
+Manis pentadactyla,"3,637.50",378.96,315,,,755,108,1,1,"1,825",食虫 insectivores(蚂蚁和白蚁),夜行性 nocturnal,3,Wc
+Canis aureus,8150,790,220,,,371,62,4,1.1,"2,136",杂食 omnivores,全天活动 cathemeral,5,
+Canis lupus,34000,1300,440,225,105,679,60~63,2~11,0.8,"2,883",食肉 carnivores,全天活动 cathemeral,8,Ch
+Vulpes bengalensis,2800,482.5,305,,,351,50~53,2~4,1.1,"1,318",杂食 omnivores,夜行性 nocturnal,2,
+Vulpes corsac,2300,525,295,105,60,"1,025",50~60,3~6,1.1,"2,173",杂食 omnivores,夜行性 nocturnal,3,Dk
+Vulpes ferrilata,4200,570,275,125,57.5,421,54,2~5,1.1,"1,427",食肉 carnivores,夜行性 nocturnal,5,Pa
+Vulpes vulpes,5300,650,400,135,88,321,51~53,3~6,1,"2,105",杂食 omnivores,全天活动 cathemeral,6,Ch
+Nyctereutes procyonoides,4500,555,190,97.5,47.5,327,62,2~5,1,"2,092",杂食 omnivores,夜行性 nocturnal,4,Eg
+Cuon alpinus,15000,1005,450,80,100,374,60~62,4~6,1.1,"2,042","食肉 carnivores, 食腐 scavengers",全天活动 cathemeral,3,We
+Melursus ursinus,97500,1650,165,,,"1,263",198,1~3,0.6,"3,650",杂食 omnivores,全天活动 cathemeral,5,
+Ursus arctos,175000,1170,105,235,135,"1,328",180~266,1~4,0.4,"5,976",杂食 omnivores,昼行性 diurnal,6,Ca
+Ursus thibetanus,147000,1455,105,265,147.5,"1,015",210~240,1.7,1.1,"3,650",杂食 omnivores,全天活动 cathemeral,5,Eg
+Helarctos malayanus,45000,1200,50,195,50,"2,373",98,1~2,0.8,"3,650",杂食 omnivores,夜行性 nocturnal,3,Wa
+Ailuropoda melanoleuca,105000,1650,135,170,90,"2,413",97~163,1~2,0.7,"5,247",食草或者树叶 herbivores,全天活动 cathemeral,1,Hc
+Ailurus fulgens,3750,620,425,105,65,604,120~150,1~3,1,"3,650",杂食 omnivores,全天活动 cathemeral,2,Ha
+Ailurus styani,4500,620,410,,,,,,,,杂食 omnivores,全天活动 cathemeral,2,Hm
+Callorhinus ursinus,152500,1950,,,,"1,684",255,1,0.7,"4,745","食无脊椎动物 invertivores, 食鱼 piscivores",全天活动 cathemeral,4,
+Eumetopias jubatus,735000,2800,,,,"1,966",308,1,1,"3,650",食鱼 piscivores,全天活动 cathemeral,4,
+Martes flavigula,1800,477.5,365,100,38.5,"1,263",220~290,2~4,1.6,"2,642",杂食 omnivores,昼行性 diurnal,3,We
+Martes foina,1200,410,275,72.5,21.5,742,230~275,3~4,1.1,"2,179",杂食 omnivores,夜行性 nocturnal,5,U
+Martes zibellina,750,400,145,75,41,480,250~300,1~5,1.6,"2,087",杂食 omnivores,全天活动 cathemeral,1,Uc
+Gulo gulo,10250,727.5,187.5,187.5,50,757,120~272,2~4,0.5,"2,622",杂食 omnivores,夜行性 nocturnal,5,Cc
+Mustela aistoodonnivalis,,146.5,56,,,,,,,,食肉 carnivores,夜行性 nocturnal,2,
+Mustela altaica,180,187.5,114,34.5,19.5,315,39,2~8,1,"1,847",食肉 carnivores,夜行性 nocturnal,4,O
+Mustela erminea,85,205,61,35,16,93,43,3~9,1,"1,079","食虫 insectivores, 食肉 carnivores",夜行性 nocturnal,7,Cf
+Mustela eversmanii,829,387.5,145,56.5,25,327,38~41,4~10,1,"1,222",食肉 carnivores,夜行性 nocturnal,3,M
+Mustela kathiah,209,269.5,173.5,34,16.5,227,38,3~18,1.5,"1,253",食肉 carnivores,全天活动 cathemeral,4,Sd
+Mustela nivalis,49,160,36.5,20.5,11,170,36,3~10,1~3,"1,194",食肉 carnivores,夜行性 nocturnal,8,Uf
+Mustela sibirica,850,320,185,55,20,528,33~37,5~6,1.6,"1,485",食肉 carnivores,夜行性 nocturnal,6,Uh
+Mustela strigidorsa,821.5,307.5,175,50.5,21.5,410,43,3.7,1.7,"2,334",食肉 carnivores,全天活动 cathemeral,3,Wa
+Vormela peregusna,535,350,180,56,22.5,91,61,4~8,1.1,"1,121",食肉 carnivores,夜行性 nocturnal,6,D
+Melogale cucphuongensis,800,350,180,55,30,681,90,2.2,1.5,"2,681",杂食 omnivores,夜行性 nocturnal,2,
+Melogale moschata,1050,367.5,165,55,30,371,49,2~4,1.8,"1,627",杂食 omnivores,夜行性 nocturnal,4,Sd
+Melogale personata,1250,400,177.5,65,32.5,398,50,2.8,1.8,"1,488",杂食 omnivores,夜行性 nocturnal,4,Wa
+Meles leucurus,6250,597.5,167.5,97.5,42.5,384,49,2~6,1,"2,376",杂食 omnivores,昼行性 diurnal,4,Uh
+Arctonyx albogularis/collaris,11100,528.5,155,95,33,407,43,2~4,1.7,"1,799",杂食 omnivores,夜行性 nocturnal,4,We
+Lutra lutra,5750,665,341.5,106.5,22.5,701,55~63,1~5,1,"2,773","食鱼 piscivores, 食无脊椎动物 invertivores, 食肉 carnivores, ",全天活动 cathemeral,8,Uh
+Lutrogale perspicillata,8500,700,425,120,25,944,60~64,2~3,1.5,"3,650","食鱼 piscivores, 食无脊椎动物 invertivores, 食肉 carnivores, ",昼行性 diurnal,8,Wa
+Aonyxcinereus/A. cinerea,3000,505,320,85,22.5,365,60~64,1~6,2,"3,650","食鱼 piscivores, 食无脊椎动物 invertivores, 食肉 carnivores, ",夜行性 nocturnal,8,
+Phoca largha,117500,1550,,28.7,,"1,498",271,1,1,"6,935","食虫 insectivores, 食鱼 piscivores",全天活动 cathemeral,4,
+Pusa hispida,67500,1450,,19.5,,"2,252",251,1,1,"6,804","食虫 insectivores, 食鱼 piscivores",全天活动 cathemeral,4,
+Erignathus barbatus,225000,2200,,,,"2,199",275,1,0.9,"6,935","食虫 insectivores, 食鱼 piscivores",全天活动 cathemeral,4,
+Viverra megaspila,"9,250.00",835,360,75,45,406,67,1~3,1.9,"1,825",杂食 omnivores,夜行性 nocturnal,4,Wb
+Viverra zibetha,6300,725,485,117.5,50,817,60~75,2~4,2,"2,954",杂食 omnivores,夜行性 nocturnal,3,Wd
+Viverricula indica,2800,555,335,92.5,34,588,71,2~5,1.8,"1,659",杂食 omnivores,夜行性 nocturnal,6,Wd
+Paradoxurus hermaphroditus,3200,520,515,76,50,398,60,2~4,2,"2,807",杂食 omnivores,夜行性 nocturnal,4,Wc
+Paguma larvata,5000,545,475,92.5,50,839,81,2.3,2,"3,014",杂食 omnivores,夜行性 nocturnal,3,We
+Arctictis binturong,11500,711,705,117.5,55,"1,035",84~99,1~6,2,"3,650",杂食 omnivores,夜行性 nocturnal,2,Wb
+Arctogalidia trivirgata,2250,520,600,77,40,842,46,2~3,1~2,"1,825",杂食 omnivores,夜行性 nocturnal,2,Wa
+Chrotogale owstoni,2900,530,420,80,,639,60,3,2,"1,825",杂食 omnivores,夜行性 nocturnal,3,Wa
+Prionodon pardicolor,6050,375,337.5,64,32.5,401,60,2~4,1.6,"1,583",杂食 omnivores,夜行性 nocturnal,4,Wc
+Herpestes edwardsii,2750,525,370,,,311,60,2.6,3.3,"1,586",杂食 omnivores,昼行性 diurnal,4,
+Herpestes javanicus,900,310,255,57.5,19.5,167,49,2~6,2,"1,473",杂食 omnivores,夜行性 nocturnal,7,Wb
+Herpestes urva,1650,440,288,91,25,369,50~60,2~5,2.1,"1,669",杂食 omnivores,昼行性 diurnal,4,Wc
+Felis bieti,7250,725,320,,62.5,306,65,2~4,1,"2,905",食肉 carnivores,夜行性 nocturnal,2,Db
+Felis chaus,7000,670,244,126.5,62.5,383,60~70,2~3,1,"1,904",食肉 carnivores,夜行性 nocturnal,6,O
+Felis silvestris,5500,665,280,140,65,351,56~65,2~4,1.5,"2,905","食虫 insectivores, 食肉 carnivores",夜行性 nocturnal,5,O3
+Prionailurus viverrinus,10500,860,285,,,432,63~70,1~4,2,"2,190","食虫 insectivores, 食肉 carnivores, 食鱼 piscivores",夜行性 nocturnal,5,
+Prionailurus bengalensis,3250,510,285,105,45,855,60~70,2~4,1.6,"2,351",食肉 carnivores,全天活动 cathemeral,6,We
+Otocolobus manul,3400,550,280,130,45,365,65~70,3~6,1,"2,036",食肉 carnivores,晨昏 crepuscular,5,Da
+Lynx lynx,28000,1050,180,237.5,87.5,740,63~74,2~3,1,"3,338",食肉 carnivores,夜行性 nocturnal,6,Ce
+Pardofelis marmorata,4250,530,505,117.5,37.5,854,81,1~4,1,"1,821",食肉 carnivores,夜行性 nocturnal,1,Wc
+Pardofelis/Catopuma temminckii,12500,88,480,172.5,65,639,85~95,1~2,1.8,"2,394",食肉 carnivores,夜行性 nocturnal,4,We
+Neofelis nebulosa,24000,890,730,212.5,52.5,753,86~92,1~5,1.7,"2,551",食肉 carnivores,昼行性 diurnal,2,Wc
+Panthera pardus,40000,735,735,215,65,811,90~105,2~3,1,"3,401",食肉 carnivores,夜行性 nocturnal,7,O
+Panthera tigris,198000,2100,1005,327,112.5,"1,523",90~105,2~3,0.4,"2,920",食肉 carnivores,夜行性 nocturnal,3,We
+Panthera uncia,56500,1200,900,185,57.5,842,90~100,2~3,1,"2,920",食肉 carnivores,晨昏 crepuscular,5,Pw
+Elephas maximus,3440000,6000,1350,,,"4,014",643,1,0.2,"8,030",食草或者树叶 herbivores,全天活动 cathemeral,4,Wa
+Dicerorhinus sumatrensis,1130000,"2,975.00",,,,"2,784",236,1,0.3,"7,300","食草或者树叶 herbivores, 食果实 frugivores",夜行性 nocturnal,1,
+Rhinoceros sondaicus,1750000,3245,710,275,,"1,278",494,1,0.3,"5,401","食草或者树叶 herbivores, 食果实 frugivores",夜行性 nocturnal,1,
+Rhinoceros unicornis,1800000,3405,660,,,"2,069",479,1,0.3,"6,852","食草或者树叶 herbivores, 食果实 frugivores",全天活动 cathemeral,3,
+Equus ferus,275000,2300,1050,,160,835,320~340,1,1,"2,847",食草或者树叶 herbivores,全天活动 cathemeral,2,D
+Equus hemionus,230000,2100,455,580,178,"1,184",346,1,0.7,"1,825",食草或者树叶 herbivores,晨昏 crepuscular,4,Dg
+Equus kiang,325000,1980,385,475,220,"1,094",304,1,0.6,"3,704",食草或者树叶 herbivores,全天活动 cathemeral,3,Pa
+Camelus ferus,565000,3350,730,577,105,"1,331",390~410,1~2,0.5,"5,840",食草或者树叶 herbivores,昼行性 diurnal,1,De
+Sus scrofa,125000,1350,250,300,114,351,114~140,5.6,1.5,"2,656",杂食 omnivores,全天活动 cathemeral,8,Uh
+Tragulus williamsoni/T. kanchil,3500,465,72.5,110,42.5,154,140~172,1,1,"2,080",食草或者树叶 herbivores,夜行性 nocturnal,2,Wa
+Moschus anhuiensis,8400,730.5,25,193.5,,480,176,1.6,1,"2,555",食草或者树叶 herbivores,夜行性 nocturnal,1,
+Moschus berezovskii,7500,715,40,215,107.5,540,176~183,1~2,1,"2,555",食草或者树叶 herbivores,夜行性 nocturnal,2,Sd
+Moschus chrysogaster,11300,850,55,250,115,588,185~195,1~2,1,"2,555",食草或者树叶 herbivores,夜行性 nocturnal,3,
+Moschus fuscus,"13,697.90",950,50,262.5,91.5,514,182,1.3,1,"2,555",食草或者树叶 herbivores,夜行性 nocturnal,4,He
+Moschus leucogaster,13500,930,50,,,537,176,1~2,1,"2,555",食草或者树叶 herbivores,夜行性 nocturnal,3,Ha
+Moschus moschiferus,10000,775,50,230,99,487,169,1~3,1,"2,190",食草或者树叶 herbivores,夜行性 nocturnal,3,Mg
+Hydropotes inermis,15500,960,65,262.5,95,293,180~190,2~5,1.5,"2,190",食草或者树叶 herbivores,全天活动 cathemeral,6,Sf
+Elaphodus cephalophus,21500,1275,100,440,80,631,181,1~2,1,"2,555",食草或者树叶 herbivores,晨昏 crepuscular,2,Sv
+Muntiacus crinifrons,24750,1150,202.5,280,105,339,180~210,1,1.4,"2,190",食草或者树叶 herbivores,全天活动 cathemeral,2,Si
+Muntiacus feae,"22,000.00","1,320.00",187.5,285,100,356,196,1.2,1.3,"1,894",食草或者树叶 herbivores,全天活动 cathemeral,2,Wb
+Muntiacus gongshanensis,20000,1000,125,283.5,87,341,203,1.1,1.4,"2,030",食草或者树叶 herbivores,晨昏 crepuscular,1,Hm
+Muntiacus nigripes,27500,"1,000.00",190,,,,,1,1.4,,食草或者树叶 herbivores,全天活动 cathemeral,1,J
+Muntiacus muntjak,"17,611.59","1,157.50",190,,,338,210,1.2,1.4,"2,416",食草或者树叶 herbivores,全天活动 cathemeral,2,
+Muntiacus putaoensis,"12,000.00",972.46,100,,71,374,203,1.1,1.4,"2,228",食草或者树叶 herbivores,全天活动 cathemeral,1,
+Muntiacus reevesi,13500,770,108,216.5,85,295,209,1,1.5,"2,932",食草或者树叶 herbivores,晨昏 crepuscular,3,Sd
+Muntiacus vaginalis,28500,1090,185,289,108,338,210,1.2,1.4,"1,460",食草或者树叶 herbivores,全天活动 cathemeral,5,Wc
+Axis porcinus,43000,1100,199,,,464,227,1~2,1.1,"2,555",食草或者树叶 herbivores,晨昏 crepuscular,5,Wa
+Rusa unicolor,222500,1900,265,,200,621,211~295,1,1,"3,285",食草或者树叶 herbivores,全天活动 cathemeral,6,Wd
+Cervus nippon,95000,1375,130,,,518,224,1,1,"3,499",食草或者树叶 herbivores,晨昏 crepuscular,4,Eg
+Cervus wallichii,"170,000.00",1925,100,,,,,,,,食草或者树叶 herbivores,全天活动 cathemeral,3,
+Cervus canadensis/elaphus,157500,2150,160,,,660,244,1,0.9,"5,209",食草或者树叶 herbivores,全天活动 cathemeral,2,Cd
+Cervus hanglu,"160,166.67","2,136.72",130,1050,,660,244,1,0.9,"5,209",食草或者树叶 herbivores,全天活动 cathemeral,3,
+Panolia siamensis/Rucervus eldii,82000,1600,235,375,153,532,240,1,1,"1,825",食草或者树叶 herbivores,晨昏 crepuscular,6,Wa
+Przewalskium albirostris,205000,182.5,115,425,245,730,253,1,1,"2,555",食草或者树叶 herbivores,全天活动 cathemeral,3,
+Elaphurus davidianus,175000,1750,675,415,148,"1,004",250~270,1.1,1,"3,531",食草或者树叶 herbivores,昼行性 diurnal,3,E
+Capreolus pygargus,30000,1175,30,,134,909,196,1.9,1,"3,064",食草或者树叶 herbivores,全天活动 cathemeral,5,Ue
+Alces alces,362500,2450,85,,,650,240~250,1~2,1.1,"3,566",食草或者树叶 herbivores,全天活动 cathemeral,3,Ca
+Rangifer tarandus,181500,1700,140,,,759,227~229,1~2,1,"1,825",食草或者树叶 herbivores,昼行性 diurnal,2,Ca
+Bos frontalis,1075000,2900,1950,,325,429.8~766.6,295,1.2,1,,食草或者树叶 herbivores,昼行性 diurnal,5,Wa
+Bos gaurus,700000,2750,865,,,611,270~280,1.2,0.9,"3,285",食草或者树叶 herbivores,昼行性 diurnal,5,Wa
+Bos javanicus,"683,333.34","2,162.50",675,,,797,296,1.2,1,"3,285",食草或者树叶 herbivores,全天活动 cathemeral,2,Wa
+Bos mutus,563500,3425,1000,,,755,272,1,0.8,"3,650",食草或者树叶 herbivores,昼行性 diurnal,2,Pb
+Bubalus arnee,"827,250.49","2,824.76",750,,,755,315,1.4,1,"3,285",食草或者树叶 herbivores,全天活动 cathemeral,4,Wa
+Procapra gutturosa,35000,1340,85,,97,893,190,1~2,1.1,"1,793",食草或者树叶 herbivores,昼行性 diurnal,2,Dn
+Procapra picticaudata,14500,980,90,,,373,175,1,1.5,"2,269",食草或者树叶 herbivores,晨昏 crepuscular,2,Pa
+Procapra przewalskii,24500,1345,95,,,731,175,1,1.5,"2,667",食草或者树叶 herbivores,昼行性 diurnal,3,Dd
+Gazella yarkandensis/subgutturosa,35500,985,147.5,,,414,169,1.4,1,"2,496",食草或者树叶 herbivores,昼行性 diurnal,1,De
+Pantholops hodgsonii,33000,1200,135,,135,575,213,1,1.1,"2,190",食草或者树叶 herbivores,晨昏 crepuscular,2,Pa
+Saiga tatarica,47500,1200,90,,,333,139~152,1.6,1.1,"1,700",食草或者树叶 herbivores,昼行性 diurnal,2,Dc
+Budorcas bedfordi,250000,1950,95,,,"1,500",220,1.6,1,,食草或者树叶 herbivores,全天活动 cathemeral,3,
+Budorcas xizangus,250000,1950,160,,,930,210,1,1,,食草或者树叶 herbivores,全天活动 cathemeral,3,Hc
+Budorcas whitei,250000,1900,150,,,930,210,1.6,1,,食草或者树叶 herbivores,全天活动 cathemeral,3,
+Budorcas taxicolor,425000,1950,158,355.5,125,928,200~220,1.2,1,"2,920",食草或者树叶 herbivores,全天活动 cathemeral,3,
+Naemorhedus baileyi,25000,1000,90,225,100.5,725,214,1,1,"2,249",食草或者树叶 herbivores,昼行性 diurnal,4,He
+Naemorhedus caudatus,37000,1130,145,295,150,725,215,1,1,"2,555",食草或者树叶 herbivores,夜行性 nocturnal,5,
+Naemorhedus evansi,"25,000.00",600,150,,,,,,,,食草或者树叶 herbivores,晨昏 crepuscular,1,
+Naemorhedus goral,38500,1100,115,257.5,,"1,017",215,1~2,1,"2,555",食草或者树叶 herbivores,晨昏 crepuscular,5,Ha
+Naemorhedus griseus,27000,1030,157.5,260,133.5,"1,017",215,1,1,"2,555",食草或者树叶 herbivores,晨昏 crepuscular,5,Eb
+Hemitragus jemlahicus,79000,1500,105,,,"1,533",180~242,1,1,"2,555",食草或者树叶 herbivores,昼行性 diurnal,5,Ha
+Capra sibirica,65000,1425,150,,,"1,169",147~180,1.2,0.8,"2,875",食草或者树叶 herbivores,昼行性 diurnal,6,Pg
+Pseudois nayaur,52500,1425,165,85,110,421,160,1.5,1.4,"2,752",食草或者树叶 herbivores,昼行性 diurnal,6,Pa
+Ovis ammon,117500,1900,140,465,125,555,150~160,1.2,1,"2,920",食草或者树叶 herbivores,晨昏 crepuscular,6,Pa
+Ovis collium,101500,1675,135,,117.5,555,170,1.2,1,,食草或者树叶 herbivores,晨昏 crepuscular,6,
+Ovis darwini,101500,1450,180,,,555,170,1.2,1,,食草或者树叶 herbivores,晨昏 crepuscular,5,
+Ovis hodgsoni,130000,1625,55,,,555,155~160,1.2,1,,食草或者树叶 herbivores,晨昏 crepuscular,5,
+Ovis jubata,125000,1600,120,,,555,170,1.2,1,,食草或者树叶 herbivores,晨昏 crepuscular,6,
+Ovis karelini,100000,1725,120,,115,555,155~165,1.2,1,,食草或者树叶 herbivores,晨昏 crepuscular,6,
+Ovis polii,90000,1600,99,,103.5,555,170,1.2,1,,食草或者树叶 herbivores,晨昏 crepuscular,5,
+Capricornis milneedwardsii,112500,1550,137.5,,190,958,228,1,1,"2,555",食草或者树叶 herbivores,昼行性 diurnal,6,We
+Capricornis rubidus,"95,000.00","1,625.00",,,,958,228,1,1,"2,555",食草或者树叶 herbivores,昼行性 diurnal,4,
+Capricornis swinhoei,21000,970,95,,,840,215,1,0.8,"2,422",食草或者树叶 herbivores,昼行性 diurnal,5,J
+Capricornis thar,112500,1550,137.5,,,958,228,1,1,"2,555",食草或者树叶 herbivores,昼行性 diurnal,6,Ha
+Dugong dugon,615000,3200,,,,"3,776",373,1,0.2,"10,246",食草或者树叶 herbivores,昼行性 diurnal,2,
+Eubalaena japonica,"23,000,000.00","17,603.54",,,,"2,343",350,1,0.3,"10,023",食无脊椎动物 invertivores,昼行性 diurnal,2,
+Eschrichtius robustus,"27,300,000.00","13,700.00",,,,"3,189",380,1,0.5,"10,444","食无脊椎动物 invertivores, 食鱼 piscivores",昼行性 diurnal,2,
+Balaenoptera acutorostrata,"7,500,000.00","7,864.66",,,,"2,681",307,1,1,"8,030","食无脊椎动物 invertivores, 食鱼 piscivores",昼行性 diurnal,2,
+Balaenoptera borealis,"20,000,000.00","19,191.08",,,,"3,275",300~330,1,0.5,"8,505","食无脊椎动物 invertivores, 食鱼 piscivores",昼行性 diurnal,2,
+Balaenoptera edeni,"20,000,000.00","14,423.09",,,,"1,887",376,1,0.5,"10,042","食无脊椎动物 invertivores, 食鱼 piscivores",昼行性 diurnal,2,
+Balaenoptera musculus,"149,000,000.00","30,490.00",,,,"2,920~3,650",300~330,1,0.4,"11,315",食无脊椎动物 invertivores,昼行性 diurnal,2,
+Balaenoptera omurai,"7,334,036.00","13,022.39",,,,"2,965",335,1,0.5,"9,155","食无脊椎动物 invertivores, 食鱼 piscivores",昼行性 diurnal,2,
+Balaenoptera physalus,"38,800,000.00","17,920.53",,,,"2,190~3,650",342,1,0.4,"9,490","食无脊椎动物 invertivores, 食鱼 piscivores",昼行性 diurnal,2,
+Megaptera novaeangliae,"30,000,000.00","14,028.11",,,,"1,310",300~330,1,0.5,"8,030","食无脊椎动物 invertivores, 食鱼 piscivores",昼行性 diurnal,2,
+Lipotes vexillifer,187500,2350,,,,"3,367",319,1,0.6,"4,840",食鱼 piscivores,昼行性 diurnal,1,
+Physeter macrocephalus,"10,100,000.00","10,987.69",,,,"2,555~4,745",420~510,1,0.2,"9,965",食无脊椎动物 invertivores,全天活动 cathemeral,2,
+Kogia breviceps,"424,600.00","4,000.00",,,,913,335,1,1,"4,380",食无脊椎动物 invertivores,昼行性 diurnal,1,
+Kogia sima,"186,650.00","2,429.02",,,,152,274,1,0.5,"4,380",食无脊椎动物 invertivores,昼行性 diurnal,1,
+Ziphius cavirostris,"2,950,000.00","8,500.00",,,,"3,519",365,1,0.3,"8,254","食无脊椎动物 invertivores, 食鱼 piscivores",全天活动 cathemeral,1,
+Mesoplodon densirostris,"1,070,000.00","4,740.00",,,,"3,788",358,1,0.4,"6,677","食无脊椎动物 invertivores, 食鱼 piscivores",全天活动 cathemeral,1,
+Mesoplodon ginkgodens,"1,500,000.00",4990,,,,"3,332",356,1,0.4,"6,931","食无脊椎动物 invertivores, 食鱼 piscivores",全天活动 cathemeral,1,
+Mesoplodon peruvianus,"1,060,000.00",3800,,,,"2,951",341,1,0.5,"6,185","食无脊椎动物 invertivores, 食鱼 piscivores",全天活动 cathemeral,1,
+Berardius bairdii,"11,400,000.00","9,900.00",,,,"5,051",446,1,0.3,"9,855","食无脊椎动物 invertivores, 食鱼 piscivores",全天活动 cathemeral,1,
+Indopacetus pacificus,"2,150,000.00","5,200.00",,,,"3,424",359,1,0.4,"7,843","食无脊椎动物 invertivores, 食鱼 piscivores",全天活动 cathemeral,1,
+Neophocaena asiaeorientalis,"32,500.00","1,600.00",,,,"1,800",320,1,0.5,"6,096","食无脊椎动物 invertivores, 食鱼 piscivores",昼行性 diurnal,1,
+Neophocaena phocaenoides,37500,1650,,,,"1,800",320,1,0.5,"5,968","食无脊椎动物 invertivores, 食鱼 piscivores",昼行性 diurnal,4,
+Neophocaena sunameri,56000,1700,,,,720,300~330,1,0.5,,"食无脊椎动物 invertivores, 食鱼 piscivores",昼行性 diurnal,5,
+Platanista gangetica,70500,"3,000.00",,,,"3,652",314,1,0.5,"6,935","食无脊椎动物 invertivores, 食鱼 piscivores",昼行性 diurnal,1,
+Steno bredanensis,"118,250.00","2,595.00",,,,"3,195",333,1.2,0.6,"6,111","食无脊椎动物 invertivores, 食鱼 piscivores",昼行性 diurnal,2,
+Sousa chinensis,"279,999.99","2,500.00",,,,"730~1,095",300~365,1,0.3,"7,300","食无脊椎动物 invertivores, 食鱼 piscivores",昼行性 diurnal,2,
+Stenella attenuata,"112,500.00","2,135.00",,,,"2,773",345,1,0.4,"8,395","食无脊椎动物 invertivores, 食鱼 piscivores",昼行性 diurnal,2,
+Stenella coeruleoalba,"122,950.00","2,900.42",,,,"3,725",365~390,1.5,0.3,"7,927","食无脊椎动物 invertivores, 食鱼 piscivores",昼行性 diurnal,2,
+Stenella longirostris,"72,666.67","2,520.00",,,,"2,459",300~330,1,0.4,"5,099","食无脊椎动物 invertivores, 食鱼 piscivores",昼行性 diurnal,2,
+Delphinus delphis,"77,818.35","2,520.00",,,,"1,095~1,825",300~330,1,0.4,"3,546","食无脊椎动物 invertivores, 食鱼 piscivores",昼行性 diurnal,2,
+Tursiops aduncus,"141,150.00","3,257.91",,,,"4,544",365,1,0.5,"7,172","食无脊椎动物 invertivores, 食鱼 piscivores",昼行性 diurnal,2,
+Tursiops truncatus,"230,000.00","3,628.96",,,,"3,355",330~365,1,0.5,"6,428","食无脊椎动物 invertivores, 食鱼 piscivores",昼行性 diurnal,4,
+Lagenodelphis hosei,"164,000.00","2,640.00",,,,"2,599",335,1,0.5,"5,691","食无脊椎动物 invertivores, 食鱼 piscivores",昼行性 diurnal,2,
+Grampus griseus,"425,000.00","4,000.00",,,,"2,526",365,1,0.4,"7,300","食无脊椎动物 invertivores, 食鱼 piscivores",昼行性 diurnal,1,
+Lagenorhynchus obliquidens,"103,000.00","2,653.31",,,,"3,833",300~365,1,0.2,"6,687","食无脊椎动物 invertivores, 食鱼 piscivores",昼行性 diurnal,2,
+Peponocephala electra,"206,000.00","2,800.00",,,,"3,459",365,1,0.3,"8,246","食无脊椎动物 invertivores, 食鱼 piscivores",昼行性 diurnal,1,
+Orcinus orca,"4,300,000.00","9,226.32",,,,"4,990",455,1,0.2,"9,381","食无脊椎动物 invertivores, 食肉 carnivores, 食鱼 piscivores",昼行性 diurnal,2,
+Pseudorca crassidens,"1,360,000.00","6,100.00",,,,"3,722",450~480,1,0.1,"7,243","食无脊椎动物 invertivores, 食肉 carnivores, 食鱼 piscivores",昼行性 diurnal,2,
+Feresa attenuata,"151,500.00","2,700.00",,,,"2,401",353,1,0.5,"5,201","食无脊椎动物 invertivores, 食鱼 piscivores",昼行性 diurnal,1,
+Globicephala macrorhynchus,"726,000.00","6,100.00",,,,"3,788",452,1,0.2,"8,651","食虫 insectivores, 食鱼 piscivores",昼行性 diurnal,1,
+Sciurus vulgaris,340,219,187,47.5,34.5,361,38,4.4,2,"1,613","食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,2,Ub
+Callosciurus caniceps,248.5,292.5,199,51.5,21,387,49,2~4,1.7,"1,644","食虫 insectivores, 食肉 carnivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,3,Wa
+Callosciurus erythraeus,350,207.5,206.5,48,20.5,362,48,2.2,2,"1,697","食虫 insectivores, 食肉 carnivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,2,Wc
+Callosciurus inornatus,325,254.5,193,52.5,21,336,48,2.5,1.7,"1,155","食虫 insectivores, 食肉 carnivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,3,
+Callosciurus phayrei,269,205,185,52,,360,47,2.5,1.8,"1,548",杂食 omnivores,昼行性 diurnal,2,Wa
+Callosciurus pygerythrus,265,210,165,45.5,18.5,331,47,3~4,1.7,"1,164",杂食 omnivores,昼行性 diurnal,3,Wa
+Callosciurus quinquestriatus,286.5,211,195,49.5,20.5,357,47,2.5,1.8,"1,534",杂食 omnivores,昼行性 diurnal,1,Hc
+Tamiops mcclellandii,39,112.5,103,29.5,18.5,327,44,2.4,1.7,"1,218","食虫 insectivores, 食果实 frugivores, 食种子 granivores",昼行性 diurnal,2,Wd
+Tamiops maritimus,66.77,119.5,97.5,27.5,13,285,42,3.1,2,"1,239","食虫 insectivores, 食果实 frugivores, 食种子 granivores",昼行性 diurnal,3,
+Tamiops swinhoei,78.5,152,91.5,31.5,12.5,290,42,3.3,2,"1,231","食虫 insectivores, 食果实 frugivores, 食种子 granivores",昼行性 diurnal,3,We
+Dremomys gularis,200.32,208.5,162.5,46,24.5,331,45,2.8,1.7,"1,156","食虫 insectivores, 食果实 frugivores, 食种子 granivores",昼行性 diurnal,1,Wa
+Dremomys lokriah,195,185,177.5,43,19.5,320,43,2~5,1.7,"1,178","食虫 insectivores, 食果实 frugivores, 食种子 granivores",昼行性 diurnal,1,He
+Dremomys pernyi,192.5,200,168,48.5,23.5,318,43,4,1.8,"1,153","食虫 insectivores, 食果实 frugivores, 食种子 granivores",昼行性 diurnal,1,Sd
+Dremomys pyrrhomerus,200.32,202.5,151,52.5,23,326,45,3,1.7,"1,155","食虫 insectivores, 食果实 frugivores, 食种子 granivores",昼行性 diurnal,2,Sc
+Dremomys rufigenis,272.5,199,155,49,24,331,45,3,1.7,"1,171","食虫 insectivores, 食果实 frugivores, 食种子 granivores",昼行性 diurnal,3,Wd
+Ratufa bicolor,1800,395,455,87.5,34,"1,078",28~35,1~3,2,"2,327",杂食 omnivores,昼行性 diurnal,1,Wa
+Menetes berdmorei,195,186,150,43.5,20,338,51,2.1,1.6,"1,210","食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,4,Wa
+Sciurotamias davidianus,433.51,220,162.5,52,24,264,53,2.5,2,"1,089","食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,2,E
+Sciurotamias forresti/Rupestes forresti,433.51,222,155,50.5,26,,52,2.2,1.6,,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,3,Hc
+Tamias sibiricus,90,142.5,110,34,16.5,352,35,4.8,1.1,"1,312","食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,2,Ub
+Spermophilus alashanicus,208,200,65.5,35,9,417,30,4.8,1,"1,096","食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,4,
+Spermophilus brevicauda,289.5,187.5,40.5,33.5,7,314,27,6.8,1,996,"食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,2,
+Spermophilus dauricus,209,216.5,57.5,34.5,7.5,478,30,5.2,1,"1,244","食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,1,Dm
+Spermophilus erythrogenys,228.5,302.25,43.86,,,314,28,6.2,1.1,985,"食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,1,Dc
+Spermophilus pallidicauda,228.5,215.5,44,38.5,7,314,28,6.2,1.1,981,"食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,1,
+Spermophilus relictus,347.5,220,67.5,37.5,,314,27,5.7,1.3,"1,008","食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,1,D
+Spermophilus undulatus,415,262.5,120,47.5,10.5,,30,8~10,1.1,,"食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,2,M
+Marmota baibacina,5375,555,142,86.5,26,822,40,5.4,1,"2,036","食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,2,Dp
+Marmota caudata,4350,498,230,77.5,24,909,31,4.7,1,"2,087","食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,5,Pe
+Marmota himalayana,6607.5,572.5,137.5,88,26.5,"1,169",41,2~11,1,"1,838","食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,6,Pa
+Marmota sibirica,"8,000.00",427.5,116.5,77,,828,41,4~6,1,"2,190","食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,3,
+Belomys pearsonii,217,210,130,39,35.5,327,47,2.3,1.7,"1,263","食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Sd
+Priapomys leonardi,177,202,,,,,,,,,"食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",,1,
+Trogopterus xanthipes,744.94,250,265,58,30,669,78~89,1~4,1.6,"1,648","食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,Hm
+Petaurista albiventer,,478,505,81.5,46,,,,,,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Sc
+Petaurista alborufus,"1,611.00",465,522.5,84,53,743,60,1~2,2,"2,557","食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,3,Wd
+Petaurista caniceps,,335,380,64,47.5,,,1~2,,,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Hm
+Petaurista hainana,1829.5,410,490,73.5,39,,,1,2,,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,J
+Petaurista magnificus,"1,780.00",389.5,447.5,75,42,685,64,1,1.7,"2,125","食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Ha
+Petaurista marica,,362.5,365,62,45,,,,,,"食虫 insectivores, 食果实 frugivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,
+Petaurista mishmiensis,695.03,497.5,585,,,818,,1.2,2,98,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,
+Petaurista punctatus,,335.5,376,63.5,44.5,,,,,,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,
+Petaurista petaurista,2048,459,502.5,81.5,271,697,45,2,1.8,"2,257","食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Wd
+Petaurista philippensis,"1,431.92",510,620.5,77.5,46,728,45,1~2,1.7,"2,354","食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,Wc
+Petaurista sybilla,"1,224.00",398.02,,,,623,63,1,1.7,"1,950","食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Hc
+Petaurista xanthotis,950,377.5,322,72.5,46.5,653,74,1.3,2,"2,299","食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Hc
+Aeretes melanopterus,246.43,315,318.5,55,30.5,339,48,2.4,1.7,"1,288",Herbivore,夜行性 nocturnal,1,Hc
+Eupetaurus cinereus,1960,515,425,86,32,729,69,1.4,1.6,"2,390",食草或者树叶 herbivores,夜行性 nocturnal,4,He
+Eupetaurus nivamons,1661.5,427.5,427.5,90.5,47.25,,,,,,食草或者树叶 herbivores,,4,
+Eupetaurus tibetensis,,468,350,,,,,,,,,,1,
+Biswamoyopterus biswasi,"1,613.30",405,605,78,46,687,68,1.3,1.7,"2,157","食果实 frugivores, 食花 nectarivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Hc
+Biswamoyopterus gaoligongensis,"1,370.00",440,520,75,47,,,,,,"食果实 frugivores, 食花 nectarivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,
+Pteromys volans,102.5,177,111,34,15.5,342,30,1~4,1.5,"1,507","食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Uc
+Hylopetes alboniger,240,211,199.5,40.5,31.5,337,45,2~3,1.7,"1,321","食虫 insectivores, 食肉 carnivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,Wc
+Hylopetes phayrei,226.99,158.5,143.5,33.5,24,333,45,2.4,1.6,"1,310","食虫 insectivores, 食肉 carnivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,J
+Castor fiber,23.5,80,257.5,165,37.5,"1,035",107,3.1,1,"3,294",食草或者树叶 herbivores,夜行性 nocturnal,4,U
+Cansumys canus,90.5,135,94,20.5,19,101,22,4.2,3.2,587,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,
+Cricetus cricetus,357.5,250,44,32,27,86,20,3~15,2,467,"食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,3,Ue
+Cricetulus alticola,35,89,39,16.5,14.5,,,5~10,,589.3882991,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,3,Pa
+Cricetulus barabensis,27.5,94,20.5,16,15.5,84,21,6~7,3.3,549,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,3,Xg
+Cricetulus kamensis,30,96,57.5,17.5,17,101,24,5~10,2.9,603,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,Pa
+Cricetulus longicaudatus,32.5,107.5,41.5,18,17.5,102,22,6~7,3,581,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,D
+Cricetulus migratorius,44.5,102.5,31,16.5,18,145,13,4.7,2,596,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,5,D
+Cricetulus sokolovi,30,95.5,25,15.5,16,,20,4~9,2~3,542,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,
+Tscherskia triton,166.5,181,87.5,22.5,20.5,98,23,8~10,2~3,581,食种子 granivores,夜行性 nocturnal,2,Xa
+Allocricetulus curtatus,50,107.5,21.5,17,14,107,13,4~9,2~3,540,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,
+Allocricetulus eversmanni,48,104,22.5,16.5,14,103,20~22,4~6,2~3,541,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,3,D
+Phodopus campbelli,28.75,90.5,9,15,14,46,20,4~8,3~4,249,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,
+Phodopus roborovskii,15,81.5,8.5,10.5,11.5,21,21,3~9,3.5,551,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,Dn
+Ellobius talpinus,59,113,14,21.5,0,92,26,3~7,6~7,626,食草或者树叶 herbivores,夜行性 nocturnal,2,Dc
+Myopus schisticolor ,26.4,87.5,14.5,16.5,12.5,25,23,4~6,2,149,"食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Uc
+Myodes centralis,21.15,98.5,47,18,14,71,21,4.3,3.5,525,"食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,
+Myodes frater,32,105.5,52.5,,,,,4~8,3,,"食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,D
+Craseomys rufocanus,25,111,31,18.5,17,30~60,18~19,4~7,4,417,"食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,6,Uc
+Myodes rutilus,32.25,104,26,19,16.5,120,17~20,4~9,2~3,433.3599222,"食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,2,C
+Eothenomys cachinus,19.59,110,46,,,88,26,1.8,3.5,452,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,1,He
+Eothenomys chinensis,45.3,117.5,69.5,21.5,13.5,86,26,3.4,3.2,528,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,2,Hc
+Eothenomys colurnus,,100.36,,,,,,,,,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,4,Hc
+Eothenomys custos,30.8,93,47,18.25,13,68,22,4.2,3.1,426,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,5,Hc
+Eothenomys eleusis,,98,52.5,,,,,1~2,,,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,1,Hc
+Eothenomys hintoni,47.5,92.5,55,,,,,,,,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,2,Sv
+Eothenomys melanogaster,19.59,97.5,31.5,16,11,93,26,2~4,3.3,494,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,4,Sv
+Eothenomys miletus,19.59,115,45,19.5,13.5,88,25,2~3,3.5,445,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,1,Hc
+Eothenomys olitor,22,86,34,15.5,10,96,26,3.2,3.1,517,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,1,Hc
+Eothenomys proditor,42.5,110,30,18.5,12.5,84,25,3.7,3.5,471,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,3,Hc
+Eothenomys fidelis,,104.9,41.8,17.5,12.3,,,,,,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,5,Hc
+Eothenomys jinyangensis,22,94,53,18,16,,,,,,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,2,Sv
+Eothenomys luojishanensis,30,108,55,18,13,,,,,,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,2,Sv
+Eothenomys meiguensis,24,91,45,17,13,,,,,,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,1,Sv
+Eothenomys shimianensis,24,95,37,17,12,,,,,,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,2,Sv
+Eothenomys tarquinius,47.5,104.5,71.5,,,,,,,,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,2,
+Eothenomys wardi,46.26,104,62.5,19.5,14.5,75,23,4.1,3.4,463,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,4,
+Caryomys eva,22.5,91.5,53,16.5,11.75,86,24,3.4,3.2,441,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,1,Hc
+Caryomys inez,23.5,90.5,37,15.5,11,97,27,2~6,3.3,545,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,1,Bc
+Alticola albicauda,,99,42.3,18.3,15.7,,,,,,食草或者树叶 herbivores,全天活动 cathemeral,3,
+Alticola argentatus,32.5,104.5,31.5,19,14.5,66,23,4~5,3,442,食草或者树叶 herbivores,昼行性 diurnal,4,
+Alticola barakshin,35.5,112.5,22,19,17,86,26,3.6,4.6,504,食草或者树叶 herbivores,夜行性 nocturnal,2,
+Alticola macrotis,38,112.5,25,16,14.5,96,29,4~7,4.4,536,食草或者树叶 herbivores,全天活动 cathemeral,2,
+Alticola roylei,31.5,120.5,37,19,13.5,71,24,4~9,1~2,442,食草或者树叶 herbivores,昼行性 diurnal,5,
+Alticola semicanus,36,122,29.5,21,18,70,24,4.9,1~2,461,食草或者树叶 herbivores,夜行性 nocturnal,2,
+Alticola stoliczkanus,30.14,110.5,19,21.5,,70,23,3~11,5,415,食草或者树叶 herbivores,夜行性 nocturnal,5,P
+Alticola strelzowi,43.5,119.5,40,20.5,20.25,56,21,7~11,2.2,374,食草或者树叶 herbivores,全天活动 cathemeral,1,Di
+Lagurus lagurus,26.75,100,13,15,5,35~45,20,4~8,5,441,食草或者树叶 herbivores,全天活动 cathemeral,3,Dc
+Arvicola amphibius,200,165,100,30,14.5,48,21,4~6,2~4,656,"食果实 frugivores, 食草或者树叶 herbivores",全天活动 cathemeral,5,U
+Neodon clarkei,46.26,124,64.5,20,13.5,,,,,,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,2,He
+Neodon forresti,85.9,117,39.5,18.5,14,99,28,3.5,3.2,577,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,3,
+Neodon fuscus,30.5,94,26.5,20,16.5,,,,,,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,1,P
+Neodon irene,46.26,94,31,17,12,77,24,4~5,3.4,483,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,Pf
+Neodon linzhiensis,37,551.44,31.5,18,13.5,614,71,2.3,1.9,"2,531","食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,
+Neodon leucurus,50.71,113,30.5,17.5,11.5,,,1.9,,,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,1,
+Neodon medogensis,33.85,99.5,49,19,13.5,,,,,,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,3,
+Neodon nyalamensis,31,106.5,44,18.5,12,,,,,,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,3,
+Neodon sikimensis,45.26,108,41,19.5,13.5,86,27,2~3,3.3,523,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,3,Ha
+Alexandromys fortis,63,129.5,57.5,23.5,14,132,20,5~6,6,,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,1,Ee
+Alexandromys kikuchii,46.3,107.5,76.5,22.5,13.5,,,2,,,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,2,J
+Alexandromys limnophilus,33.1,103,38,20.5,13.5,37,22,5.8,3.4,,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,5,De
+Alexandromys maximowiczii,38.15,135.5,48.5,20,14.3,,,4~12,,,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,2,X
+Alexandromys oeconomus,33.1,112,40.5,17,14,45,22,2~11,3~4,220,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,5,Ua
+Microtus arvalis,25.4,117,36,16.5,14.5,28,19~21,1~13,5~7,448,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,4,Ub
+Microtus agrestis,25.1,117.5,34.5,18.5,13,38,21,4.4,2~4,466,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,5,Cb
+Microtus /Lasiopodomys gregalis,47.5,105.5,26.5,16.5,10.5,56,22,7~9,2.9,398,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,4,U
+Microtus ilaeus,25.4,113.5,40,18.5,12,47,21,2~8,3~4,431,"食种子 granivores, 食草或者树叶 herbivores",晨昏 crepuscular,3,Dc
+Microtus juldaschi (Neodon juldaschi),37.77,133.35,34,16,12.5,70,23,3.5,4.1,486,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,3,Ha
+Microtus/Alexandromys mongolicus,25.4,125.5,33,18,13.5,47,21,6~9,4~5,433,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,2,Xd
+Microtus socialis,48,96,22.5,17.5,,33,20,2~9,2~3,354,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,1,Dc
+Volemys millicens,34,89,49.5,18.25,14,88,26,3.5,3.3,519,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,He
+Volemys musseri,51.57320536,109.5,58.5,20.5,16.5,,,,,589.3882991,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,3,He
+Lasiopodomys brandtii,69.5,120,26,21,10.5,61,22,6~8,4~5,436,食草或者树叶 herbivores,昼行性 diurnal,3,Dn
+Lasiopodomys mandarinus,46.26,105,23.5,16.5,9.5,92,28,2~4,3.3,540,食草或者树叶 herbivores,昼行性 diurnal,1,X
+Eolagurus luteus,59.75,150,17,20,7,25,20~21,6~9,3.5,332,"食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,1,Dc
+Eolagurus przewalskii,46.26,127.5,13,20.5,7,80,25,3~8,3.3,504,"食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,2,Dd
+Proedromys bedfordi,46.26,87.5,14.5,16.5,12.5,93,26,3.4,3.2,525,"食种子 granivores, 食草或者树叶 herbivores",全天活动 cathemeral,1,Pc
+Proedromys liangshanensis,60,116.5,71.5,22,16,122,31,3.1,3.4,663,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,
+Vandeleuria oleracea,10,75.5,101,17.5,13.5,92,26,3~6,3.5,485,"食果实 frugivores, 食草或者树叶 herbivores",夜行性 nocturnal,4,Wa
+Hapalomys delacouri,70,129.5,150,23,14.5,103,28,3.1,3.3,601,"食果实 frugivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Wa
+Hapalomys longicaudatus,70,168,170,,,103,28,3,3.3,629,"食果实 frugivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Wa
+Chiropodomys gliroides,26.5,91,119.5,20,18,101,19~21,1~4,3.7,467,食草或者树叶 herbivores,夜行性 nocturnal,1,Wa
+Chiromyscus chiropus,77.8,149,216.5,28,19.5,97,25,3.5,3.3,557,Omnivore,夜行性 nocturnal,2,
+Chiromyscus langbianis,78,146.5,176.5,31,20.5,98,25,3.7,3.4,591,,夜行性 nocturnal,1,
+Vernaya fulva,24.85,66.5,126.5,18.25,17,99,26,3.5,3.3,564,Omnivore,夜行性 nocturnal,1,Hc
+Micromys erythrotis,6.54,55.75,61.75,14,9.63,,,,,,"食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,
+Micromys minutus,6,61.5,66.5,15,10,37,20,5~9,2.6,503,"食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,6,Uh
+Apodemus agrarius,33.5,96.5,93.5,20.5,13.5,76,21,5~6,3.3,504,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,4,Ub
+Apodemus chevrieri,21.2,99,94,23.5,15,76,21,5.7,3.3,502,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,3,Sb
+Apodemus draco,23.4,96.5,91,21.5,16,68,23,5.2,3.8,596,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,3,Sd
+Apodemus ilex,26,89,89.5,22,17,,,,,,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,3,
+Apodemus latronum,29.4,101.5,106,24.25,20.5,52,26,5.2,2.8,576,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,4,Hc
+Apodemus nigrus,26.5,94.5,100.5,23.5,17.5,,,,,,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,1,
+Apodemus pallipes,23.39,91,89.5,22,17,68,23,5.2,3.8,628,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,1,Ha
+Apodemus peninsulae,34,99,89,22,15.5,52,26,4.7,2.8,570,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,5,X
+Apodemus semotus,28.75,91.25,109.5,24.25,16,68,23,2~6,3.8,591,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,3,J
+Apodemus uralensis,20,93.5,90,20,15,68,23,5.2,3.8,593,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,3,
+Hadromys yunnanensis,59,131.5,123,25.5,17.5,100,26,3.6,3.3,580,Herbivore,夜行性 nocturnal,2,
+Dacnomys millardi,73.99,259,321.5,53,27,102,26,3.8,3.3,593,Omnivore,夜行性 nocturnal,1,Wa
+Rattus andamanensis,140,156.5,197,34,22.5,107,22,6.6,4.3,558,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,
+Rattus exulans,49,115.5,132.5,22.5,16.25,57,22,3.7,3.6,570,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,8,Wa
+Rattus losea,56,152.5,151.5,28,19.5,101,24,4.4,3.5,556,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,4,
+Rattus nitidus,125,164,170.5,34,21,101,25,4~15,2~3,553,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,4,Wa
+Rattus norvegicus,365,232.5,220,44,22.5,55,22,8.9,3.7,594,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Ue
+Rattus rattus,200,201.99,209,,,115,22,6,4.3,546,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,5,
+Rattus tanezumi,171.34,160,175,30.5,20,107,22,6,4.3,559,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,4,We
+Niviventer andersoni,141,153,240.5,32,21,111,30,3.1,3.3,652,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,W
+Niviventer brahma,97.3,145.5,219,32.5,22.5,101,28,3.4,3.4,627,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,
+Niviventer bukit,,138.5,164.5,29.75,22,,,,,,,夜行性 nocturnal,1,
+Niviventer confucianus,65,144.5,204.5,31.5,23,100,24,4.2,3.5,567,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,We
+Niviventer coninga,142,172.5,218,33.5,25.5,97,29,2.4,3.4,598,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,J
+Niviventer cremoriventer,71.54,183.5,181,,,101,26,2~5,3.4,599,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Wb
+Niviventer culturatus,81.17,140,185,32,24,101,26,3.7,3.4,610,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,J
+Niviventer eha,53.6,121,180,29.5,18,97,24,4.9,3.5,568,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Hm
+Niviventer excelsior,102,151,201.5,32,24.5,102,29,3.3,3.4,637,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,
+Niviventer fengi,65.5,132.5,183,27,18.5,,,,,,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,
+Niviventer fulvescens,81.79,151.5,190.5,32,20,99,24,4.4,3.5,566,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,Wb
+Niviventer gladiusmaculus,56.9,123.5,151.5,25,21.5,,,,,,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,
+Niviventer huang,80.2,142,172.5,27.5,16,,,,,,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,
+Niviventer lotipes,75.15,141.5,152.5,24,19.5,,,,,,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,J
+Niviventer niviventer,83.2,146.5,212,,,99,24,4.5,3.6,562,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Ha
+Niviventer mekongis,86.2,134,179.5,27.5,20,,,,,,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,,
+Niviventer pianmaensis,112.5,149,205.5,33.5,19,100,24,4.2,3.5,567,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,
+Niviventer sacer,65,145.5,150,27.865,19.915,,,,,,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,,
+Niviventer tenaster,96.5,154.5,204,33.5,24.5,98,25,3.7,3.4,582,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,
+Maxomys surifer,160,243,193.5,43.5,26,99,25,2~5,3.3,565,杂食 omnivores,夜行性 nocturnal,2,
+Berylmys berdmorei,176.5,215,163,41,26,124,28,3.6,3.3,629,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Wa
+Berylmys bowersi,358.68,260.5,270.5,54.5,34,136,30,2~5,3.1,659,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,3,Wc
+Berylmys manipulus,116,160,163.5,36.5,24,107,25,4.1,3.4,581,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,3,He
+Leopoldamys edwardsi,355,250,289.5,50,30,152,37,1.9,2.7,718,"食虫 insectivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Wd
+Leopoldamys neilli,219,245,325,50,31,111,31,2.9,3.2,630,"食虫 insectivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,
+Mus booduga,11.5,87.53,56,16,12.5,71,21,2~6,3.8,488,"食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,5,
+Mus caroli,15.5,83.5,85,17,13,48,20,5.8,4.6,575,"食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,4,Wb
+Mus cervicolor,12.75,82.5,60,16.5,14,66,19,4.3,3.7,473,"食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,4,Wa
+Mus cookii,19.75,86.5,87,19.5,15,71,21,4.8,3.5,496,"食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,3,
+Mus musculus,20.5,95,61.5,,,65,20,6.1,4.6,628,"食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,5,Uh
+Mus pahari,22.5,90,85,22,16,86,25,4.1,3.2,547,"食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Wc
+Tonkinomys  daovantieni,172.5,200.5,169.5,39,30,,,,,,"食虫 insectivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,
+Bandicota bengalensis,196.83,202,150,32.5,,64,21~25,1~19,5.9,562,"食虫 insectivores, 食草或者树叶 herbivores",夜行性 nocturnal,6,
+Bandicota indica,750,258,235,53,29,146,22,5~7,4,612,"食虫 insectivores, 食草或者树叶 herbivores",夜行性 nocturnal,5,Wa
+Nesokia indica,170,172,119.5,30,19,102,17,4.1,4,564,"食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,5,
+Brachiones przewalskii,27,85,67,23,7.5,86,20~23,3~6,2~3,542,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Db
+Meriones chengi,63.85,140.5,102.5,32.5,17,,22~24,4~8,3.1,579,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,D
+Meriones libycus,105.5,140,144,34.5,16.5,93,26,5~6,3~4,649,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",昼行性 diurnal,4,Dh
+Meriones meridianus,45,114.5,102,29.5,14.5,78,22~28,1~12,1~3,660,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,Da
+Meriones tamariscinus,120,162.5,132.5,35.5,18,,25,4~5,2,567,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,4,Dc
+Meriones unguiculatus,58.1,114.5,95.5,28,14,57,24~26,2~11,3.8,504,"食虫 insectivores, 食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,3,Dn
+Rhombomys opimus,222,167.5,145,41.5,15.5,108,22~25,4~7,2.5,563,食草或者树叶 herbivores,昼行性 diurnal,4,
+Typhlomys chapensis,15.15,88,103,,,,,,,,"食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,
+Typhlomys cinereus,23.5,78.5,119,21,15.5,238,33,2~4,1.8,811,"食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Sd
+Typhlomys daloushanensis,25.5,81,112,23,14.5,,,,,,"食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Wc
+Typhlomys huangshanensis,16.215,78.27,99,19,13.5,,,,,,"食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,
+Typhlomys nanus,11,69,101.5,,,,,,,,"食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,
+Cannomys badius,275,195,60.5,29.5,8,258,40~43,2~5,1.9,847,食草或者树叶 herbivores,夜行性 nocturnal,3,He
+Rhizomys pruinosus,2000,292.5,110,45,16.5,360,37,2~3,1.8,"1,262","食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,3,Wb
+Rhizomys sinensis,1912.5,298,73,49,17,270,34,2~4,1.8,840,"食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,3,We
+Rhizomys sumatrensis,3075,380.5,166.5,59,26.5,359,22,3~5,1.8,"1,207","食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,3,Wa
+Rhizomys vestitus,1600,365,,,,,,,,,"食果实 frugivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,
+Eospalax baileyi,256.76,270,50,,,269,34,2.8,1.8,810,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,3,
+Eospalax cansus,254,181.5,38.3,33,,,,,1.8,,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,4,
+Eospalax fontanierii,385,200,51,31.5,,269,34,2~3,1~3,810,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,3,Bc
+Eospalax rothschildi,302,160.5,33,27,,265,36,1~5,1.8,847,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,4,O
+Eospalax rufescens,306,200,51,33.5,,,,2.7,,,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,3,
+Eospalax smithii,320,208.5,36.5,29,,259,36,2~4,1.9,836,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,O
+Myospalax aspalax,323.5,186.5,58.5,32,,318,31,2~5,1,840,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,Dn
+Myospalax myospalax,460,234.5,48,,,318,31,3~5,1,838,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Di
+Myospalax psilurus,292.5,235,45,31,,317,33,2~5,1,851,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,4,Bc
+Chaetocauda sichuanensis,30,90.5,97,18.5,18,328,31,3.7,1.7,868,杂食 omnivores,夜行性 nocturnal,1,Hc
+Dryomys nitedula,48.5,102.5,95,21.5,16,371,25,3.2,1.2,890,杂食 omnivores,夜行性 nocturnal,5,U
+Sicista caudata,11.2,63,105.5,17,13,208,27,4.1,1.9,743,"食虫 insectivores, 食果实 frugivores, 食种子 granivores",夜行性 nocturnal,2,
+Sicista concolor,6.5,63.5,97.5,17.5,12.5,261,28,3~6,1.7,755,"食虫 insectivores, 食果实 frugivores, 食种子 granivores",夜行性 nocturnal,4,U
+Sicista pseudonapaea,11.65,71,92,15,14.5,218,27,4.1,1.9,704,"食虫 insectivores, 食果实 frugivores, 食种子 granivores",夜行性 nocturnal,2,
+Sicista subtilis,12.5,66,81.5,15.5,13,333,26,2~7,1,782,"食虫 insectivores, 食果实 frugivores, 食种子 granivores",夜行性 nocturnal,3,O
+Sicista tianshanica,11.5,62.5,95,17.5,13,339,27,3~6,1,754,"食虫 insectivores, 食果实 frugivores, 食种子 granivores",夜行性 nocturnal,2,
+Eozapus setchuanus,17.5,85,129.5,28.5,13,165,27,4.1,2.1,709,"食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,4,Hc
+Allactaga/Orientallactaga balikunica,72.5,123.5,177.5,59,33.5,180,32,2.5,2,770,"食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,
+Allactaga /Orientallactaga bullata,86.5,130,182.5,59,34.5,182,32,1~3,1~2,772,"食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,Da
+Allactaga/Scarturus elater,58.5,102.5,164.5,50.5,34,105,28,3~6,2,625,"食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,Dc
+Allactaga major,350,221.5,269,89,57,378,34,1~4,1.6,983,"食虫 insectivores, 食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,4,
+Allactaga/Orientallactaga sibirica,111,150,205,71.5,49,331,34,2~9,1,863,"食虫 insectivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,Dc
+Pygeretmus pumilio,46,107.5,153,49.5,25,182,28,2~5,2~3,728,"食虫 insectivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Dc
+Cardiocranius paradoxus,9.5,52.5,68.5,24.5,5.5,139,27,3~5,2.3,697,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,Dc
+Salpingotus crassicauda,12,47.5,99,21.5,8,157,31,2.6,2,718,"食虫 insectivores, 食草或者树叶 herbivores",夜行性 nocturnal,3,Dc
+Salpingotus kozlovi,9.5,49.5,118,25.5,10.5,153,28,3~5,2.2,663,"食虫 insectivores, 食草或者树叶 herbivores",夜行性 nocturnal,3,Db
+Chimaerodipus auritus,52,108,160.5,50.5,30,,,,,,"食果实 frugivores, 食花 nectarivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,
+Dipus sagitta,86.5,128,167.5,59.5,18.5,84,25~30,3~4,2~3,720,"食果实 frugivores, 食花 nectarivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,Dg
+Dipus deasyi ,73.5,120.5,172.5,62.5,21,,,,,,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,
+Stylodipus andrewsi,57.5,121.5,143,54.5,17,316,30,2~4,1,821,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,3,
+Stylodipus sungorus,87.5,127.5,157.5,55.5,19,,31,2~6,1.8,913,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,
+Stylodipus telum,80,118.5,152.5,52,18,316,30,2~4,1~2,834,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,1,
+Euchoreutes naso,31,87.5,164.5,45,42,273,34,2~6,1.8,784,"食种子 granivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,Da
+Atherurus macrourus,3000,435,183.5,69.5,33,345,100~110,1.6,1.9,"1,724","食果实 frugivores, 食草或者树叶 herbivores",夜行性 nocturnal,2,Wc
+Hystrix hodgsoni,14000,646.5,97.5,84,31.5,598,112,2~3,1.8,"2,779","食果实 frugivores, 食草或者树叶 herbivores",夜行性 nocturnal,4,Ha
+Hystrix brachyura,1250,610,80,80,35,598,112,2~4,1,2713.29805,"食果实 frugivores, 食草或者树叶 herbivores",夜行性 nocturnal,4,Wd
+Ochotona argentata,206,221.5,,33,23.5,197,27,2~4,2.3,658,食草或者树叶 herbivores,全天活动 cathemeral,2,
+Ochotona alpina,293,193.5,,30.5,21.5,378,30,2~8,2.1,623,食草或者树叶 herbivores,全天活动 cathemeral,2,O
+Ochotona cansus,74.5,140.5,,25.5,19,414,24,2~6,2.3,855,食草或者树叶 herbivores,全天活动 cathemeral,2,Pc
+Ochotona chinensis,220,175,30,32.5,24.5,,30,2~3,2~7,,食草或者树叶 herbivores,全天活动 cathemeral,2,
+Ochotona coreana,135,167.5,,30,18,203,29,3.1,2.1,883,食草或者树叶 herbivores,全天活动 cathemeral,2,
+Ochotona curzoniae,162.5,166,,32.5,22,58,23,2~8,1~2,438,食草或者树叶 herbivores,昼行性 diurnal,2,P
+Ochotona dabashanensis,73.8,160,,26,17,,,,,,食草或者树叶 herbivores,昼行性 diurnal,2,
+Ochotona dauurica,130,175,,30,21,94,15~22,3~6,2.1,691,食草或者树叶 herbivores,昼行性 diurnal,1,Dn
+Ochotona erythrotis,268,233,,37,35.5,378,34,3~7,2.5,824,食草或者树叶 herbivores,昼行性 diurnal,2,Pf
+Ochotona flatcalvariam,55,137,,25,17,,,,,,食草或者树叶 herbivores,全天活动 cathemeral,3,
+Ochotona forresti,129,170,,28.5,20.5,31,22,5.7,2.3,527,食草或者树叶 herbivores,全天活动 cathemeral,2,He
+Ochotona gloveri,220,190,,33.5,35,378,34,4.1,2.5,825,食草或者树叶 herbivores,昼行性 diurnal,2,Pc
+Ochotona himalayana,147.5,160,,30,27.5,,,3~4,,,食草或者树叶 herbivores,全天活动 cathemeral,2,Ha
+Ochotona huanglongensis,112,116,,27,,,,,,,食草或者树叶 herbivores,全天活动 cathemeral,3,Ha
+Ochotona hyperborea,156,177,,27.5,19.5,203,29,3.1,2.1,880,食草或者树叶 herbivores,全天活动 cathemeral,4,
+Ochotona iliensis,233.5,203.5,,42.5,36.5,278,33,3.7,2.3,751,食草或者树叶 herbivores,全天活动 cathemeral,2,D
+Ochotona koslowi,165,230,,40,18,373,57,1,1,"1,221",食草或者树叶 herbivores,昼行性 diurnal,1,Pg
+Ochotona ladacensis,239,204.5,,37,28.5,251,29,3.7,2.1,713,食草或者树叶 herbivores,昼行性 diurnal,1,Pe
+Ochotona macrotis,166,177,,31.5,31.5,371,29,2~3,1.8,768,食草或者树叶 herbivores,昼行性 diurnal,2,Pa
+Ochotona mantchurica,185,180,,27,21.5,203,29,3.1,2.1,884,食草或者树叶 herbivores,昼行性 diurnal,4,Ga
+Ochotona nigritia,149.7635962,156.5,,27,17.5,,,,,751.47417,食草或者树叶 herbivores,全天活动 cathemeral,2,
+Ochotona nubrica,115.5,162,,31,24,31,22,8.4,3.1,530,食草或者树叶 herbivores,全天活动 cathemeral,2,Pa
+Ochotona pallasii,214,190,,31.5,20.5,365,25,5~7,2~3,715,食草或者树叶 herbivores,昼行性 diurnal,3,D
+Ochotona pusilla,182.5,180,,28,19.5,32,22,8.5,3.1,480,食草或者树叶 herbivores,夜行性 nocturnal,2,
+Ochotona qionglaiensis,80,172,,28,20,,,,,,食草或者树叶 herbivores,全天活动 cathemeral,2,
+Ochotona roylei/roylii,155,179.5,,29.5,29,336,29,3.2,1.6,725,食草或者树叶 herbivores,全天活动 cathemeral,2,Hm
+Ochotona rutila,270,213,,37.5,28,378,33,4.1,2.5,805,食草或者树叶 herbivores,全天活动 cathemeral,2,O
+Ochotona sacraria,78.7,148.3,27,17,,,,,,,食草或者树叶 herbivores,全天活动 cathemeral,3,
+Ochotona sikimaria,66.7,145.8,,26.7,18.1,,,,,,食草或者树叶 herbivores,全天活动 cathemeral,1,
+Ochotona syrinx,80,150.5,,27.5,20,,29,2.9,2.5,706,食草或者树叶 herbivores,全天活动 cathemeral,2,
+Ochotona thibetana,104,160,,28,20,211,29,1~6,1~2,712,食草或者树叶 herbivores,全天活动 cathemeral,2,Hc
+Ochotona thomasi,77.5,135,,25.5,19.5,219,31,2~6,2.4,715,食草或者树叶 herbivores,全天活动 cathemeral,2,Pc
+Ochotona xunhuaensis,85.5,150,,,,,,,,,食草或者树叶 herbivores,全天活动 cathemeral,2,
+Ochotona yarlungensis,100,155,,28,20,,,,,,食草或者树叶 herbivores,全天活动 cathemeral,2,
+Caprolagus hispidus,"2,498.50",480.12,75,98,70,228,40,3.5,2.7,"1,083",食草或者树叶 herbivores,夜行性 nocturnal,2,
+Lepus comus,2150,401,102.5,114,116,254,42,1~4,2,"1,076",食草或者树叶 herbivores,晨昏 crepuscular,2,Yc
+Lepus coreanus,"1,700.00",457.5,67.5,115,76,247,44,2.9,2.8,"1,090",食草或者树叶 herbivores,夜行性 nocturnal,3,
+Lepus hainanus,1500,372,57.5,86,87,219,41,2.3,3.4,996,食草或者树叶 herbivores,夜行性 nocturnal,3,J
+Lepus mandshuricus,2000,475,65,127.5,96.5,238,38,2.3,2.5,"1,182",食草或者树叶 herbivores,夜行性 nocturnal,1,Mb
+Lepus nigricollis,2700,430,50,96,110,210,38,1~4,7.2,"1,022",食草或者树叶 herbivores,夜行性 nocturnal,7,
+Lepus oiostolus,3125,490,95,121,130,258,41,4~6,2,"1,082",食草或者树叶 herbivores,夜行性 nocturnal,3,Pa
+Lepus sinensis,1481.5,400,48.5,96,71,209,37,2~5,3~4,"1,050",食草或者树叶 herbivores,夜行性 nocturnal,2,Sc
+Lepus tibetanus,2062.5,440.5,98,122,95.5,228,43,2.8,3.1,"1,049",食草或者树叶 herbivores,夜行性 nocturnal,3,Ca
+Lepus timidus,2420,536,62.5,150,95,266,47~55,2~4,2.1,"1,306",食草或者树叶 herbivores,夜行性 nocturnal,5,O
+Lepus tolai,2150,495,91,118.5,101.5,228,43,2~6,2~4,"1,061",食草或者树叶 herbivores,夜行性 nocturnal,3,O
+Lepus yarkandensis,1500,357.5,70.5,100,100,226,40,3~5,2~3,"1,056",食草或者树叶 herbivores,夜行性 nocturnal,3,Db
